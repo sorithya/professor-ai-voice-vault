@@ -1,0 +1,4335 @@
+{
+  "version": "1.0.0",
+  "updatedAt": "2026-11-23T11:35:45.501Z",
+  "repoUrl": "https://github.com/sorithya/professor-ai-voice-vault",
+  "rawBaseUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main",
+  "categories": [
+    {
+      "id": "characters",
+      "labelEn": "Characters",
+      "labelKh": "តួអង្គពិសេស"
+    },
+    {
+      "id": "women",
+      "labelEn": "Women",
+      "labelKh": "ស្ត្រី"
+    },
+    {
+      "id": "men",
+      "labelEn": "Men",
+      "labelKh": "បុរស"
+    },
+    {
+      "id": "father",
+      "labelEn": "Father",
+      "labelKh": "ប៉ា"
+    },
+    {
+      "id": "elders",
+      "labelEn": "Elders",
+      "labelKh": "តា & យាយ"
+    },
+    {
+      "id": "youth",
+      "labelEn": "Youth & Kids",
+      "labelKh": "ក្មេង"
+    },
+    {
+      "id": "narrators",
+      "labelEn": "Narrators",
+      "labelKh": "អ្នកអត្ថាធិប្បាយ"
+    }
+  ],
+  "voices": [
+    {
+      "id": "actress-1",
+      "fileName": "actress-1.wav",
+      "relPath": "voices/characters/actress-1.wav",
+      "category": "characters",
+      "categoryLabelEn": "Characters",
+      "categoryLabelKh": "តួអង្គពិសេស",
+      "gender": "Female",
+      "nameEn": "Actress 01",
+      "nameKh": "តួឯកស្រី ១",
+      "seconds": 7,
+      "sizeBytes": 675884,
+      "sha256": "336c555f1e4592b1f57547b10dc0c01e8f5086fdc2796478d6188159792b3cd9",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/actress-1.wav",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/actress-1.wav",
+      "tags": [
+        {
+          "en": "Lead",
+          "kh": "តួឯក"
+        }
+      ]
+    },
+    {
+      "id": "actress-2",
+      "fileName": "actress-2.wav",
+      "relPath": "voices/characters/actress-2.wav",
+      "category": "characters",
+      "categoryLabelEn": "Characters",
+      "categoryLabelKh": "តួអង្គពិសេស",
+      "gender": "Female",
+      "nameEn": "Actress 02",
+      "nameKh": "តួឯកស្រី ២",
+      "seconds": 8.2,
+      "sizeBytes": 783404,
+      "sha256": "28c4a6d4716ce43386f93112d5889750fa332792980ccb83011aa037aec2b5ea",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/actress-2.wav",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/actress-2.wav",
+      "tags": [
+        {
+          "en": "Lead",
+          "kh": "តួឯក"
+        }
+      ]
+    },
+    {
+      "id": "actress-3",
+      "fileName": "actress-3.wav",
+      "relPath": "voices/characters/actress-3.wav",
+      "category": "characters",
+      "categoryLabelEn": "Characters",
+      "categoryLabelKh": "តួអង្គពិសេស",
+      "gender": "Female",
+      "nameEn": "Actress 03",
+      "nameKh": "តួឯកស្រី ៣",
+      "seconds": 6.4,
+      "sizeBytes": 614444,
+      "sha256": "40273102549e93604b380f436f00cd6c98e10c8a57c20e57bb16366ba3f4f8cc",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/actress-3.wav",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/actress-3.wav",
+      "tags": [
+        {
+          "en": "Lead",
+          "kh": "តួឯក"
+        }
+      ]
+    },
+    {
+      "id": "actress-4",
+      "fileName": "actress-4.wav",
+      "relPath": "voices/characters/actress-4.wav",
+      "category": "characters",
+      "categoryLabelEn": "Characters",
+      "categoryLabelKh": "តួអង្គពិសេស",
+      "gender": "Female",
+      "nameEn": "Actress 04",
+      "nameKh": "តួឯកស្រី ៤",
+      "seconds": 5.8,
+      "sizeBytes": 553004,
+      "sha256": "b509500b3ac6cb420d3f62b8704343726b04267f03f5b906956df5d9db9bbdc6",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/actress-4.wav",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/actress-4.wav",
+      "tags": [
+        {
+          "en": "Lead",
+          "kh": "តួឯក"
+        }
+      ]
+    },
+    {
+      "id": "ancient-king",
+      "fileName": "ancient-king.mp3",
+      "relPath": "voices/characters/ancient-king.mp3",
+      "category": "characters",
+      "categoryLabelEn": "Characters",
+      "categoryLabelKh": "តួអង្គពិសេស",
+      "gender": "Male",
+      "nameEn": "Ancient King",
+      "nameKh": "ព្រះមហាក្សត្របុរាណ",
+      "seconds": 17.8,
+      "sizeBytes": 426816,
+      "sha256": "fc2727403008ea8d0b019b68f5ef0658a8452fb05d9dbf3944404646145d4e1e",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/ancient-king.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/ancient-king.mp3",
+      "tags": [
+        {
+          "en": "Royal",
+          "kh": "រាជវង្ស"
+        }
+      ]
+    },
+    {
+      "id": "aunt",
+      "fileName": "aunt.wav",
+      "relPath": "voices/characters/aunt.wav",
+      "category": "characters",
+      "categoryLabelEn": "Characters",
+      "categoryLabelKh": "តួអង្គពិសេស",
+      "gender": "Female",
+      "nameEn": "Aunt",
+      "nameKh": "មីង",
+      "seconds": 7.4,
+      "sizeBytes": 706604,
+      "sha256": "81d157c74356e2387a63f666c0693f7f9d5bf5d6fd2379df3d452813b6adc8e6",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/aunt.wav",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/aunt.wav",
+      "tags": [
+        {
+          "en": "Family",
+          "kh": "គ្រួសារ"
+        }
+      ]
+    },
+    {
+      "id": "calm-man",
+      "fileName": "calm-man.wav",
+      "relPath": "voices/characters/calm-man.wav",
+      "category": "characters",
+      "categoryLabelEn": "Characters",
+      "categoryLabelKh": "តួអង្គពិសេស",
+      "gender": "Male",
+      "nameEn": "Calm Man",
+      "nameKh": "បុរសស្ងប់ស្ងាត់",
+      "seconds": 9.1,
+      "sizeBytes": 875564,
+      "sha256": "cca55eacf86128d6b7ee34ea5f6ce5639777b1cdf07271484c13e16901566165",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/calm-man.wav",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/calm-man.wav",
+      "tags": [
+        {
+          "en": "Calm",
+          "kh": "ស្ងប់ស្ងាត់"
+        }
+      ]
+    },
+    {
+      "id": "calm-woman",
+      "fileName": "calm-woman.wav",
+      "relPath": "voices/characters/calm-woman.wav",
+      "category": "characters",
+      "categoryLabelEn": "Characters",
+      "categoryLabelKh": "តួអង្គពិសេស",
+      "gender": "Female",
+      "nameEn": "Calm Woman",
+      "nameKh": "នារីស្ងប់ស្ងាត់",
+      "seconds": 6.7,
+      "sizeBytes": 645164,
+      "sha256": "86cbe16c3ff6742331930f99156924881688cebf25fca2f4ddfeaabf6058b49e",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/calm-woman.wav",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/calm-woman.wav",
+      "tags": [
+        {
+          "en": "Calm",
+          "kh": "ស្ងប់ស្ងាត់"
+        }
+      ]
+    },
+    {
+      "id": "cocky-male-friend",
+      "fileName": "cocky-male-friend.wav",
+      "relPath": "voices/characters/cocky-male-friend.wav",
+      "category": "characters",
+      "categoryLabelEn": "Characters",
+      "categoryLabelKh": "តួអង្គពិសេស",
+      "gender": "Male",
+      "nameEn": "Cocky Male Friend",
+      "nameKh": "មិត្តប្រុសក្រអឺតក្រទម",
+      "seconds": 3.8,
+      "sizeBytes": 368684,
+      "sha256": "032be319a21090514eabd6e5cf4ec0fe9bea48c3284a396173b52ab3d878a527",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/cocky-male-friend.wav",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/cocky-male-friend.wav",
+      "tags": [
+        {
+          "en": "Character",
+          "kh": "តួអង្គ"
+        }
+      ]
+    },
+    {
+      "id": "confident-man",
+      "fileName": "confident-man.wav",
+      "relPath": "voices/characters/confident-man.wav",
+      "category": "characters",
+      "categoryLabelEn": "Characters",
+      "categoryLabelKh": "តួអង្គពិសេស",
+      "gender": "Male",
+      "nameEn": "Confident Man (Lead)",
+      "nameKh": "បុរសជឿជាក់ (តួឯក)",
+      "seconds": 6.4,
+      "sizeBytes": 614444,
+      "sha256": "4edfec05fa8a46ca4bb53dcf20b0e28428b989677b52a7cd90508880d70e9f4d",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/confident-man.wav",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/confident-man.wav",
+      "tags": [
+        {
+          "en": "Lead",
+          "kh": "តួឯក"
+        }
+      ]
+    },
+    {
+      "id": "elder-princess",
+      "fileName": "elder-princess.wav",
+      "relPath": "voices/characters/elder-princess.wav",
+      "category": "characters",
+      "categoryLabelEn": "Characters",
+      "categoryLabelKh": "តួអង្គពិសេស",
+      "gender": "Female",
+      "nameEn": "Elder Princess",
+      "nameKh": "ព្រះនាងធំ",
+      "seconds": 8.2,
+      "sizeBytes": 783404,
+      "sha256": "c2eaf9d46360e60cc794184f2a4a421252199b30e9108ee8843495334fbb7969",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/elder-princess.wav",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/elder-princess.wav",
+      "tags": [
+        {
+          "en": "Royal",
+          "kh": "រាជវង្ស"
+        }
+      ]
+    },
+    {
+      "id": "female-friend-2",
+      "fileName": "female-friend-2.wav",
+      "relPath": "voices/characters/female-friend-2.wav",
+      "category": "characters",
+      "categoryLabelEn": "Characters",
+      "categoryLabelKh": "តួអង្គពិសេស",
+      "gender": "Female",
+      "nameEn": "Female Friend",
+      "nameKh": "មិត្តស្រី",
+      "seconds": 6.6,
+      "sizeBytes": 629804,
+      "sha256": "6f271b6249852d9f06a92784d1810328aeaa9965f3ecc109be1f225a748c3c47",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/female-friend-2.wav",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/female-friend-2.wav",
+      "tags": [
+        {
+          "en": "Character",
+          "kh": "តួអង្គ"
+        }
+      ]
+    },
+    {
+      "id": "male-friend",
+      "fileName": "male-friend.wav",
+      "relPath": "voices/characters/male-friend.wav",
+      "category": "characters",
+      "categoryLabelEn": "Characters",
+      "categoryLabelKh": "តួអង្គពិសេស",
+      "gender": "Male",
+      "nameEn": "Male Friend",
+      "nameKh": "មិត្តប្រុស",
+      "seconds": 3.7,
+      "sizeBytes": 353324,
+      "sha256": "4ce0e2eedbd31e03792adf5d0811526c1f9e8ab4d476bf1001fb8374153c235a",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/male-friend.wav",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/male-friend.wav",
+      "tags": [
+        {
+          "en": "Character",
+          "kh": "តួអង្គ"
+        }
+      ]
+    },
+    {
+      "id": "male-servant",
+      "fileName": "male-servant.wav",
+      "relPath": "voices/characters/male-servant.wav",
+      "category": "characters",
+      "categoryLabelEn": "Characters",
+      "categoryLabelKh": "តួអង្គពិសេស",
+      "gender": "Male",
+      "nameEn": "Male Servant",
+      "nameKh": "អ្នកបម្រើប្រុស",
+      "seconds": 6.2,
+      "sizeBytes": 599084,
+      "sha256": "3ff1e60198d8ad495616e3b39e3b1256fa5b3e23fc540f8d76e8307513a20d0a",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/male-servant.wav",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/male-servant.wav",
+      "tags": [
+        {
+          "en": "Character",
+          "kh": "តួអង្គ"
+        }
+      ]
+    },
+    {
+      "id": "mom",
+      "fileName": "mom.wav",
+      "relPath": "voices/characters/mom.wav",
+      "category": "characters",
+      "categoryLabelEn": "Characters",
+      "categoryLabelKh": "តួអង្គពិសេស",
+      "gender": "Female",
+      "nameEn": "Mom",
+      "nameKh": "ម៉ាក់",
+      "seconds": 8.6,
+      "sizeBytes": 829484,
+      "sha256": "fa8c244836a909379930aca454cec42aac819b2dc23a85f68beba39ee9816a80",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/mom.wav",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/mom.wav",
+      "tags": [
+        {
+          "en": "Family",
+          "kh": "គ្រួសារ"
+        }
+      ]
+    },
+    {
+      "id": "mother",
+      "fileName": "mother.mp3",
+      "relPath": "voices/characters/mother.mp3",
+      "category": "characters",
+      "categoryLabelEn": "Characters",
+      "categoryLabelKh": "តួអង្គពិសេស",
+      "gender": "Female",
+      "nameEn": "Mother",
+      "nameKh": "ម្តាយ",
+      "seconds": 3.4,
+      "sizeBytes": 81216,
+      "sha256": "249c2d3a1b4971e54cb360c2274daa37ba019cb691491e276062e9769a9a5a74",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/mother.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/mother.mp3",
+      "tags": [
+        {
+          "en": "Family",
+          "kh": "គ្រួសារ"
+        }
+      ]
+    },
+    {
+      "id": "neighbor",
+      "fileName": "neighbor.mp3",
+      "relPath": "voices/characters/neighbor.mp3",
+      "category": "characters",
+      "categoryLabelEn": "Characters",
+      "categoryLabelKh": "តួអង្គពិសេស",
+      "gender": "Female",
+      "nameEn": "Neighbor",
+      "nameKh": "អ្នកជិតខាង",
+      "seconds": 5.3,
+      "sizeBytes": 127318,
+      "sha256": "013e98e0f9e811f09f58848e1a5d77707ffd16ef27554fde50a7814e0602fbc6",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/neighbor.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/neighbor.mp3",
+      "tags": [
+        {
+          "en": "Character",
+          "kh": "តួអង្គ"
+        }
+      ]
+    },
+    {
+      "id": "princess-lead",
+      "fileName": "princess-lead.wav",
+      "relPath": "voices/characters/princess-lead.wav",
+      "category": "characters",
+      "categoryLabelEn": "Characters",
+      "categoryLabelKh": "តួអង្គពិសេស",
+      "gender": "Female",
+      "nameEn": "Princess Lead",
+      "nameKh": "តួព្រះនាង",
+      "seconds": 6.1,
+      "sizeBytes": 583724,
+      "sha256": "5c459679aa814ad5ca444b87b2eda8d94d378f30f2e49bf92a877009cd5cf2f7",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/princess-lead.wav",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/princess-lead.wav",
+      "tags": [
+        {
+          "en": "Royal",
+          "kh": "រាជវង្ស"
+        }
+      ]
+    },
+    {
+      "id": "queen",
+      "fileName": "queen.mp3",
+      "relPath": "voices/characters/queen.mp3",
+      "category": "characters",
+      "categoryLabelEn": "Characters",
+      "categoryLabelKh": "តួអង្គពិសេស",
+      "gender": "Female",
+      "nameEn": "Queen",
+      "nameKh": "ព្រះមហាក្សត្រី",
+      "seconds": 19.4,
+      "sizeBytes": 465408,
+      "sha256": "c2518f9f119943a319f4b26d6d5077ec4cc8cd85f24b13c0ad5f259aa8a7314b",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/queen.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/queen.mp3",
+      "tags": [
+        {
+          "en": "Royal",
+          "kh": "រាជវង្ស"
+        }
+      ]
+    },
+    {
+      "id": "royal-minister",
+      "fileName": "royal-minister.wav",
+      "relPath": "voices/characters/royal-minister.wav",
+      "category": "characters",
+      "categoryLabelEn": "Characters",
+      "categoryLabelKh": "តួអង្គពិសេស",
+      "gender": "Male",
+      "nameEn": "Royal Minister",
+      "nameKh": "អាម៉ាត",
+      "seconds": 8.8,
+      "sizeBytes": 844844,
+      "sha256": "a6a9541a390e481130e0ae1ab2e74a735530fe8811cc0508b88a205c248b13f7",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/royal-minister.wav",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/royal-minister.wav",
+      "tags": [
+        {
+          "en": "Royal",
+          "kh": "រាជវង្ស"
+        }
+      ]
+    },
+    {
+      "id": "sweet-girl-voice",
+      "fileName": "sweet-girl-voice.wav",
+      "relPath": "voices/characters/sweet-girl-voice.wav",
+      "category": "characters",
+      "categoryLabelEn": "Characters",
+      "categoryLabelKh": "តួអង្គពិសេស",
+      "gender": "Female",
+      "nameEn": "Sweet Girl (Lead)",
+      "nameKh": "នារីផ្អែមល្ហែម (តួឯក)",
+      "seconds": 8,
+      "sizeBytes": 768044,
+      "sha256": "c4de290ea7e93d8432fd81b1aef9e378eef92a448add6da9df636bd521e370c2",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/sweet-girl-voice.wav",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/sweet-girl-voice.wav",
+      "tags": [
+        {
+          "en": "Lead",
+          "kh": "តួឯក"
+        }
+      ]
+    },
+    {
+      "id": "young-prince",
+      "fileName": "young-prince.wav",
+      "relPath": "voices/characters/young-prince.wav",
+      "category": "characters",
+      "categoryLabelEn": "Characters",
+      "categoryLabelKh": "តួអង្គពិសេស",
+      "gender": "Male",
+      "nameEn": "Young Prince",
+      "nameKh": "ព្រះអង្គម្ចាស់ក្មេង",
+      "seconds": 5.6,
+      "sizeBytes": 537644,
+      "sha256": "84c5a00a88fe9dcff7566be98b7b01abb00138bfa3371e60254d4757d7259812",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/young-prince.wav",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/characters/young-prince.wav",
+      "tags": [
+        {
+          "en": "Royal",
+          "kh": "រាជវង្ស"
+        }
+      ]
+    },
+    {
+      "id": "female-mp3",
+      "fileName": "female-mp3.mp3",
+      "relPath": "voices/women/female-mp3.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Female Studio (MP3)",
+      "nameKh": "សំឡេងស្រី",
+      "seconds": 15.2,
+      "sizeBytes": 365760,
+      "sha256": "51ba4338ef63f37a38da672afe384834fc56c84d02025db6a5b80f4df6621cf8",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-mp3.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-mp3.mp3",
+      "tags": [
+        {
+          "en": "Female",
+          "kh": "ស្រី"
+        }
+      ]
+    },
+    {
+      "id": "female-wav",
+      "fileName": "female-wav.wav",
+      "relPath": "voices/women/female-wav.wav",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Female Studio (WAV)",
+      "nameKh": "សំឡេងស្រី",
+      "seconds": 4,
+      "sizeBytes": 384044,
+      "sha256": "cffcdeec871623016d1cf9200fcc860a846cff849aaff3a4f1ab3e42cccbae16",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-wav.wav",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-wav.wav",
+      "tags": [
+        {
+          "en": "Female",
+          "kh": "ស្រី"
+        }
+      ]
+    },
+    {
+      "id": "female-1",
+      "fileName": "female-1.wav",
+      "relPath": "voices/women/female-1.wav",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Female Studio 01",
+      "nameKh": "សំឡេងស្រី ១",
+      "seconds": 5.6,
+      "sizeBytes": 537644,
+      "sha256": "dbf621b56bd811eaa0bba11f664eb394fd3e1090b3a00cd2f63da58a07bf37a0",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-1.wav",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-1.wav",
+      "tags": [
+        {
+          "en": "Female",
+          "kh": "ស្រី"
+        }
+      ]
+    },
+    {
+      "id": "female-clone-01",
+      "fileName": "female-clone-01.mp3",
+      "relPath": "voices/women/female-clone-01.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Female Voice 01",
+      "nameKh": "សំឡេងស្រី ១",
+      "seconds": 11.5,
+      "sizeBytes": 277056,
+      "sha256": "daf2cd700df805f401333661455849e80d5c90e45c0d7f31c9b6b9513d138887",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-clone-01.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-clone-01.mp3",
+      "tags": [
+        {
+          "en": "Female Clone",
+          "kh": "សំឡេងស្រី"
+        }
+      ]
+    },
+    {
+      "id": "female-clone-02",
+      "fileName": "female-clone-02.mp3",
+      "relPath": "voices/women/female-clone-02.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Female Voice 02",
+      "nameKh": "សំឡេងស្រី ២",
+      "seconds": 13.2,
+      "sizeBytes": 315648,
+      "sha256": "3b57065cdb7d02b85070480f9b8d987189e9b05f14bd608b0a5b53fbf3e8c027",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-clone-02.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-clone-02.mp3",
+      "tags": [
+        {
+          "en": "Female Clone",
+          "kh": "សំឡេងស្រី"
+        }
+      ]
+    },
+    {
+      "id": "female-clone-03",
+      "fileName": "female-clone-03.mp3",
+      "relPath": "voices/women/female-clone-03.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Female Voice 03",
+      "nameKh": "សំឡេងស្រី ៣",
+      "seconds": 13,
+      "sizeBytes": 311616,
+      "sha256": "ae22adce4f4609c7075c141d4333b35cb02859c18ba8f3799a44a3967c4b6d63",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-clone-03.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-clone-03.mp3",
+      "tags": [
+        {
+          "en": "Female Clone",
+          "kh": "សំឡេងស្រី"
+        }
+      ]
+    },
+    {
+      "id": "female-clone-04",
+      "fileName": "female-clone-04.mp3",
+      "relPath": "voices/women/female-clone-04.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Female Voice 04",
+      "nameKh": "សំឡេងស្រី ៤",
+      "seconds": 12,
+      "sizeBytes": 288576,
+      "sha256": "91472a52700f9c93daa893086066646ff65a51953258b952d5b3330857e24342",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-clone-04.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-clone-04.mp3",
+      "tags": [
+        {
+          "en": "Female Clone",
+          "kh": "សំឡេងស្រី"
+        }
+      ]
+    },
+    {
+      "id": "female-clone-05",
+      "fileName": "female-clone-05.mp3",
+      "relPath": "voices/women/female-clone-05.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Female Voice 05",
+      "nameKh": "សំឡេងស្រី ៥",
+      "seconds": 19.9,
+      "sizeBytes": 476928,
+      "sha256": "d1f55f80898097b896d3f732989d251cce01f8433d9cd2e57eede966dba71ddd",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-clone-05.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-clone-05.mp3",
+      "tags": [
+        {
+          "en": "Female Clone",
+          "kh": "សំឡេងស្រី"
+        }
+      ]
+    },
+    {
+      "id": "female-clone-06",
+      "fileName": "female-clone-06.mp3",
+      "relPath": "voices/women/female-clone-06.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Female Voice 06",
+      "nameKh": "សំឡេងស្រី ៦",
+      "seconds": 15.6,
+      "sizeBytes": 373248,
+      "sha256": "4b884055471c5c2f27c05767a1c522f7116b8776ec619bdc8d9f8dfe62f72f61",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-clone-06.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-clone-06.mp3",
+      "tags": [
+        {
+          "en": "Female Clone",
+          "kh": "សំឡេងស្រី"
+        }
+      ]
+    },
+    {
+      "id": "female-clone-07",
+      "fileName": "female-clone-07.mp3",
+      "relPath": "voices/women/female-clone-07.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Female Voice 07",
+      "nameKh": "សំឡេងស្រី ៧",
+      "seconds": 10.3,
+      "sizeBytes": 246528,
+      "sha256": "9c474eed3e96532364e05123357ef034fea1255bbde40895a237b7d872608302",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-clone-07.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-clone-07.mp3",
+      "tags": [
+        {
+          "en": "Female Clone",
+          "kh": "សំឡេងស្រី"
+        }
+      ]
+    },
+    {
+      "id": "female-clone-08",
+      "fileName": "female-clone-08.mp3",
+      "relPath": "voices/women/female-clone-08.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Female Voice 08",
+      "nameKh": "សំឡេងស្រី ៨",
+      "seconds": 13.2,
+      "sizeBytes": 315648,
+      "sha256": "d3e9c336698ac3257dfd92f7e4c0b82daad224de834c65bbf3cee16564f6096d",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-clone-08.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-clone-08.mp3",
+      "tags": [
+        {
+          "en": "Female Clone",
+          "kh": "សំឡេងស្រី"
+        }
+      ]
+    },
+    {
+      "id": "female-clone-09",
+      "fileName": "female-clone-09.mp3",
+      "relPath": "voices/women/female-clone-09.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Female Voice 09",
+      "nameKh": "សំឡេងស្រី ៩",
+      "seconds": 12.4,
+      "sizeBytes": 296640,
+      "sha256": "5f6ed635f37616b63740021f2f10394e97cd7d7504721105aa735be22f8aa1dd",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-clone-09.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-clone-09.mp3",
+      "tags": [
+        {
+          "en": "Female Clone",
+          "kh": "សំឡេងស្រី"
+        }
+      ]
+    },
+    {
+      "id": "female-clone-10",
+      "fileName": "female-clone-10.mp3",
+      "relPath": "voices/women/female-clone-10.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Female Voice 10",
+      "nameKh": "សំឡេងស្រី ១០",
+      "seconds": 13.2,
+      "sizeBytes": 315648,
+      "sha256": "2436fd239ec33188f201ad82c7cf082ed87861fb21d14e5146e9bf6d8d74ab05",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-clone-10.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-clone-10.mp3",
+      "tags": [
+        {
+          "en": "Female Clone",
+          "kh": "សំឡេងស្រី"
+        }
+      ]
+    },
+    {
+      "id": "female-clone-11",
+      "fileName": "female-clone-11.mp3",
+      "relPath": "voices/women/female-clone-11.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Female Voice 11",
+      "nameKh": "សំឡេងស្រី ១១",
+      "seconds": 10.9,
+      "sizeBytes": 262080,
+      "sha256": "6b38dd749ccf79b85e1ff3e9e7e8fff5eab0b006fb2bc2bc843ce99036269df5",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-clone-11.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-clone-11.mp3",
+      "tags": [
+        {
+          "en": "Female Clone",
+          "kh": "សំឡេងស្រី"
+        }
+      ]
+    },
+    {
+      "id": "female-clone-12",
+      "fileName": "female-clone-12.mp3",
+      "relPath": "voices/women/female-clone-12.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Female Voice 12",
+      "nameKh": "សំឡេងស្រី ១២",
+      "seconds": 17.8,
+      "sizeBytes": 426816,
+      "sha256": "7ef00168f3166fecea58ee7d373265ebb7657ac8dedfd323477617cf9a3372fd",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-clone-12.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-clone-12.mp3",
+      "tags": [
+        {
+          "en": "Female Clone",
+          "kh": "សំឡេងស្រី"
+        }
+      ]
+    },
+    {
+      "id": "female-clone-13",
+      "fileName": "female-clone-13.mp3",
+      "relPath": "voices/women/female-clone-13.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Female Voice 13",
+      "nameKh": "សំឡេងស្រី ១៣",
+      "seconds": 11.9,
+      "sizeBytes": 285120,
+      "sha256": "908e654a740a5264eb97ea72bb5026102f235740b471a21dc87ba2553b9e7ce0",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-clone-13.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-clone-13.mp3",
+      "tags": [
+        {
+          "en": "Female Clone",
+          "kh": "សំឡេងស្រី"
+        }
+      ]
+    },
+    {
+      "id": "female-clone-14",
+      "fileName": "female-clone-14.mp3",
+      "relPath": "voices/women/female-clone-14.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Female Voice 14",
+      "nameKh": "សំឡេងស្រី ១៤",
+      "seconds": 12.2,
+      "sizeBytes": 292608,
+      "sha256": "4404a9780549d58d9c888d14203d4d5a3a4d926aa5b86d543596f93e089214a1",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-clone-14.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-clone-14.mp3",
+      "tags": [
+        {
+          "en": "Female Clone",
+          "kh": "សំឡេងស្រី"
+        }
+      ]
+    },
+    {
+      "id": "female-clone-15",
+      "fileName": "female-clone-15.mp3",
+      "relPath": "voices/women/female-clone-15.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Female Voice 15",
+      "nameKh": "សំឡេងស្រី ១៥",
+      "seconds": 10.9,
+      "sizeBytes": 262080,
+      "sha256": "ce425d32145f74fb6c4ec02f181444cce9924d31191b657ce242618e8cc70316",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-clone-15.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-clone-15.mp3",
+      "tags": [
+        {
+          "en": "Female Clone",
+          "kh": "សំឡេងស្រី"
+        }
+      ]
+    },
+    {
+      "id": "female-clone-16",
+      "fileName": "female-clone-16.mp3",
+      "relPath": "voices/women/female-clone-16.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Female Voice 16",
+      "nameKh": "សំឡេងស្រី ១៦",
+      "seconds": 10.4,
+      "sizeBytes": 250560,
+      "sha256": "0c9f227635d2c60dee8074bdcb456239d86836f8df8c8e0a60f94275dbed26b2",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-clone-16.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-clone-16.mp3",
+      "tags": [
+        {
+          "en": "Female Clone",
+          "kh": "សំឡេងស្រី"
+        }
+      ]
+    },
+    {
+      "id": "female-clone-17",
+      "fileName": "female-clone-17.mp3",
+      "relPath": "voices/women/female-clone-17.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Female Voice 17",
+      "nameKh": "សំឡេងស្រី ១៧",
+      "seconds": 9.1,
+      "sizeBytes": 219456,
+      "sha256": "68ae30adc1da95a219f084272cd2bdedd03b74d36480d512ea1860607b068597",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-clone-17.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-clone-17.mp3",
+      "tags": [
+        {
+          "en": "Female Clone",
+          "kh": "សំឡេងស្រី"
+        }
+      ]
+    },
+    {
+      "id": "female-clone-18",
+      "fileName": "female-clone-18.mp3",
+      "relPath": "voices/women/female-clone-18.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Female Voice 18",
+      "nameKh": "សំឡេងស្រី ១៨",
+      "seconds": 14.8,
+      "sizeBytes": 354240,
+      "sha256": "419b45b39d70a4a92c3013952dec386f0312aaa414e4486022a3ba0d54e9d250",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-clone-18.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-clone-18.mp3",
+      "tags": [
+        {
+          "en": "Female Clone",
+          "kh": "សំឡេងស្រី"
+        }
+      ]
+    },
+    {
+      "id": "female-clone-19",
+      "fileName": "female-clone-19.mp3",
+      "relPath": "voices/women/female-clone-19.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Female Voice 19",
+      "nameKh": "សំឡេងស្រី ១៩",
+      "seconds": 13.3,
+      "sizeBytes": 319680,
+      "sha256": "6db0e9a409bb6a7d910b0cc9688d6883a245ecd17522cc5e531e67eba9c95a89",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-clone-19.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/female-clone-19.mp3",
+      "tags": [
+        {
+          "en": "Female Clone",
+          "kh": "សំឡេងស្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-01",
+      "fileName": "woman-01.mp3",
+      "relPath": "voices/women/woman-01.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 01",
+      "nameKh": "ស្ត្រី ១",
+      "seconds": 9.5,
+      "sizeBytes": 227520,
+      "sha256": "086f948cc5b3456b958d46883d34bf85d1da07189633840f0f2b88526c79a107",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-01.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-01.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-02",
+      "fileName": "woman-02.mp3",
+      "relPath": "voices/women/woman-02.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 02",
+      "nameKh": "ស្ត្រី ២",
+      "seconds": 7.1,
+      "sizeBytes": 169920,
+      "sha256": "6efd0f1832e08f62b68f0a78e79c846454a45af9935188dca0917190ab4bea46",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-02.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-02.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-03",
+      "fileName": "woman-03.mp3",
+      "relPath": "voices/women/woman-03.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 03",
+      "nameKh": "ស្ត្រី ៣",
+      "seconds": 7.9,
+      "sizeBytes": 188928,
+      "sha256": "99450079907840daa770e1591ba5442708f85d243dd486c5d274db04fb603629",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-03.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-03.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-04",
+      "fileName": "woman-04.mp3",
+      "relPath": "voices/women/woman-04.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 04",
+      "nameKh": "ស្ត្រី ៤",
+      "seconds": 6.9,
+      "sizeBytes": 165888,
+      "sha256": "b0b8f867244b1f8945b5a20ee5224687f382367c6117b5a8c11eba665dba878a",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-04.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-04.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-05",
+      "fileName": "woman-05.mp3",
+      "relPath": "voices/women/woman-05.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 05",
+      "nameKh": "ស្ត្រី ៥",
+      "seconds": 5.2,
+      "sizeBytes": 123840,
+      "sha256": "8d340b0d2599ad649264fe3aee37d3cad18559a9a74e2e1e1bae57ac313dab85",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-05.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-05.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-06",
+      "fileName": "woman-06.mp3",
+      "relPath": "voices/women/woman-06.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 06",
+      "nameKh": "ស្ត្រី ៦",
+      "seconds": 8.4,
+      "sizeBytes": 200448,
+      "sha256": "c08f76a1dceceda977102a624a6d15b43d7142738a540f42fd06eb4da916e2cf",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-06.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-06.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-07",
+      "fileName": "woman-07.mp3",
+      "relPath": "voices/women/woman-07.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 07",
+      "nameKh": "ស្ត្រី ៧",
+      "seconds": 7.1,
+      "sizeBytes": 169920,
+      "sha256": "ad5170de9d38a572884c91b5ca639d22e402661459e1fec5faff19a0146a3985",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-07.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-07.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-08",
+      "fileName": "woman-08.mp3",
+      "relPath": "voices/women/woman-08.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 08",
+      "nameKh": "ស្ត្រី ៨",
+      "seconds": 9.3,
+      "sizeBytes": 223488,
+      "sha256": "44109d50900edd0ca290af0572ab08daf63b314a5f737c80ad40a65279df84b1",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-08.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-08.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-09",
+      "fileName": "woman-09.mp3",
+      "relPath": "voices/women/woman-09.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 09",
+      "nameKh": "ស្ត្រី ៩",
+      "seconds": 6.4,
+      "sizeBytes": 154368,
+      "sha256": "a6ef54fc1a36325f2e0edab252581917007f82f76049e02d71a64b7d3af89641",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-09.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-09.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-10",
+      "fileName": "woman-10.mp3",
+      "relPath": "voices/women/woman-10.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 10",
+      "nameKh": "ស្ត្រី ១០",
+      "seconds": 9.3,
+      "sizeBytes": 223488,
+      "sha256": "ed45d9c10ce46fac0c6c105a05e684e6807777737128ec80a3a0e971736b03aa",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-10.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-10.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-11",
+      "fileName": "woman-11.mp3",
+      "relPath": "voices/women/woman-11.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 11",
+      "nameKh": "ស្ត្រី ១១",
+      "seconds": 6.1,
+      "sizeBytes": 146880,
+      "sha256": "c0d6c5ee8c17d2c37fbb349c9fb6149e1bda4acd4be831175038c427ef230e39",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-11.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-11.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-12",
+      "fileName": "woman-12.mp3",
+      "relPath": "voices/women/woman-12.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 12",
+      "nameKh": "ស្ត្រី ១២",
+      "seconds": 7.2,
+      "sizeBytes": 173376,
+      "sha256": "e3083b9e394d8f51aa4214e5006872332cf76b2ec109d4e5c6545a363b16887b",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-12.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-12.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-13",
+      "fileName": "woman-13.mp3",
+      "relPath": "voices/women/woman-13.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 13",
+      "nameKh": "ស្ត្រី ១៣",
+      "seconds": 6.7,
+      "sizeBytes": 161856,
+      "sha256": "78c0fbed951200bd58f374ecb93d7e48e6ae41e978d8cc668d44f0dca6bacdd2",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-13.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-13.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-14",
+      "fileName": "woman-14.mp3",
+      "relPath": "voices/women/woman-14.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 14",
+      "nameKh": "ស្ត្រី ១៤",
+      "seconds": 8.8,
+      "sizeBytes": 211968,
+      "sha256": "b2f38f44062e13eacd5a732c5b247ec4349ea851d2e38e457a3daec8383adce4",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-14.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-14.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-15",
+      "fileName": "woman-15.mp3",
+      "relPath": "voices/women/woman-15.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 15",
+      "nameKh": "ស្ត្រី ១៥",
+      "seconds": 8.4,
+      "sizeBytes": 200448,
+      "sha256": "bb25232a1ed8d267611ffc3916cbca212c9e4efd092417de6e12df463e4b6185",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-15.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-15.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-16",
+      "fileName": "woman-16.mp3",
+      "relPath": "voices/women/woman-16.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 16",
+      "nameKh": "ស្ត្រី ១៦",
+      "seconds": 6.1,
+      "sizeBytes": 146880,
+      "sha256": "c8799290fa56424f929aa5781006c51a8fb9b36cdc455c657b514aa745241943",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-16.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-16.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-17",
+      "fileName": "woman-17.mp3",
+      "relPath": "voices/women/woman-17.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 17",
+      "nameKh": "ស្ត្រី ១៧",
+      "seconds": 7.9,
+      "sizeBytes": 188928,
+      "sha256": "0b7cbb8c0a6a0ebda07ad90e6d36467979a4d3bfa067af3329f48efc32f81b4d",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-17.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-17.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-18",
+      "fileName": "woman-18.mp3",
+      "relPath": "voices/women/woman-18.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 18",
+      "nameKh": "ស្ត្រី ១៨",
+      "seconds": 6.4,
+      "sizeBytes": 154368,
+      "sha256": "c2c0d8ed4728246dd4cbcd26d93eaae75793f7e4207f5db722577a4bf03fd53a",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-18.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-18.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-19",
+      "fileName": "woman-19.mp3",
+      "relPath": "voices/women/woman-19.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 19",
+      "nameKh": "ស្ត្រី ១៩",
+      "seconds": 6,
+      "sizeBytes": 142848,
+      "sha256": "de9f96b2fb4c7b902720377bcd293d8921c5230ffc4e27c55f41b83786f5837f",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-19.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-19.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-20",
+      "fileName": "woman-20.mp3",
+      "relPath": "voices/women/woman-20.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 20",
+      "nameKh": "ស្ត្រី ២០",
+      "seconds": 8.4,
+      "sizeBytes": 200448,
+      "sha256": "ea4a3b1ba5cf02d6156a2def82bc22c0e7f82acfeff2e20fc37241b461a57c4d",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-20.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-20.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-21",
+      "fileName": "woman-21.mp3",
+      "relPath": "voices/women/woman-21.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 21",
+      "nameKh": "ស្ត្រី ២១",
+      "seconds": 7.7,
+      "sizeBytes": 184896,
+      "sha256": "3fc7b500ce06f0e2ba4f082c58c915b5e1f442b21df650e69117c0a46bec0542",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-21.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-21.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-22",
+      "fileName": "woman-22.mp3",
+      "relPath": "voices/women/woman-22.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 22",
+      "nameKh": "ស្ត្រី ២២",
+      "seconds": 5.6,
+      "sizeBytes": 135360,
+      "sha256": "184295c22a7d82ad428a832dd0793f2662a1b3a2efd22c5a808df971f1903ef1",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-22.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-22.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-23",
+      "fileName": "woman-23.mp3",
+      "relPath": "voices/women/woman-23.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 23",
+      "nameKh": "ស្ត្រី ២៣",
+      "seconds": 7.9,
+      "sizeBytes": 188928,
+      "sha256": "20f2580dbf11e2365ed33cb0bfdd24ae96ac9bca1f2d3f8d79cab99f94fdc313",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-23.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-23.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-24",
+      "fileName": "woman-24.mp3",
+      "relPath": "voices/women/woman-24.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 24",
+      "nameKh": "ស្ត្រី ២៤",
+      "seconds": 5.8,
+      "sizeBytes": 138816,
+      "sha256": "0551afba2c2af31ea00cf136e7eb82a692bc4bb887f23e13b75e72a7a1c64c8a",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-24.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-24.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-25",
+      "fileName": "woman-25.mp3",
+      "relPath": "voices/women/woman-25.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 25",
+      "nameKh": "ស្ត្រី ២៥",
+      "seconds": 8.2,
+      "sizeBytes": 196416,
+      "sha256": "3d5da6a963fd9dae3f506942fcae576ebfdffbc59a54ab32381a695bcce64160",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-25.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-25.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-26",
+      "fileName": "woman-26.mp3",
+      "relPath": "voices/women/woman-26.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 26",
+      "nameKh": "ស្ត្រី ២៦",
+      "seconds": 8.2,
+      "sizeBytes": 196416,
+      "sha256": "a1bca120fe70962899bf6471c8361ab6272beb1515c939fed487f0bc517407af",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-26.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-26.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-27",
+      "fileName": "woman-27.mp3",
+      "relPath": "voices/women/woman-27.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 27",
+      "nameKh": "ស្ត្រី ២៧",
+      "seconds": 5.3,
+      "sizeBytes": 127296,
+      "sha256": "0cf94ecc82b4f33214d55bf2e029115b00356cae099b408c8cbbe97f0ae2e312",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-27.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-27.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-28",
+      "fileName": "woman-28.mp3",
+      "relPath": "voices/women/woman-28.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 28",
+      "nameKh": "ស្ត្រី ២៨",
+      "seconds": 6.4,
+      "sizeBytes": 154368,
+      "sha256": "d24c345c04cc30219786683feb8cd04984c51579b840bc10260900b6f74f5538",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-28.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-28.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-29",
+      "fileName": "woman-29.mp3",
+      "relPath": "voices/women/woman-29.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 29",
+      "nameKh": "ស្ត្រី ២៩",
+      "seconds": 8,
+      "sizeBytes": 192960,
+      "sha256": "c33b908da196db84bf9756c252a166234cb0974c631c69edeb14e4540d62fc5a",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-29.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-29.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-30",
+      "fileName": "woman-30.mp3",
+      "relPath": "voices/women/woman-30.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 30",
+      "nameKh": "ស្ត្រី ៣០",
+      "seconds": 8.4,
+      "sizeBytes": 200448,
+      "sha256": "ba1d2422f25ccb41ad5664c676b6c1a961a42bf4812dbfb35a39bf26f9bbc9e8",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-30.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-30.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-31",
+      "fileName": "woman-31.mp3",
+      "relPath": "voices/women/woman-31.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 31",
+      "nameKh": "ស្ត្រី ៣១",
+      "seconds": 9.3,
+      "sizeBytes": 223488,
+      "sha256": "ac03a8fbd5917468b0e8cad4d93e33c3b5dd8c86586f55baf2725db1566ba888",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-31.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-31.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-32",
+      "fileName": "woman-32.mp3",
+      "relPath": "voices/women/woman-32.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 32",
+      "nameKh": "ស្ត្រី ៣២",
+      "seconds": 6.6,
+      "sizeBytes": 158400,
+      "sha256": "dd9e6a3f46ec70a333038272ff73b22fbe421c5801a01b250afa30d2d9f703ff",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-32.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-32.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-33",
+      "fileName": "woman-33.mp3",
+      "relPath": "voices/women/woman-33.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 33",
+      "nameKh": "ស្ត្រី ៣៣",
+      "seconds": 6.7,
+      "sizeBytes": 161856,
+      "sha256": "85c7ebe11e010f1e58ee55fc48fdc9c832f0c9883ef9ed0f0d8e5add5d0ef4f6",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-33.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-33.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-34",
+      "fileName": "woman-34.mp3",
+      "relPath": "voices/women/woman-34.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 34",
+      "nameKh": "ស្ត្រី ៣៤",
+      "seconds": 8,
+      "sizeBytes": 192960,
+      "sha256": "f99fe9f3708d0e50093a8d386495318f80d48d71bbfbef20a9af39551d782b6c",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-34.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-34.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-35",
+      "fileName": "woman-35.mp3",
+      "relPath": "voices/women/woman-35.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 35",
+      "nameKh": "ស្ត្រី ៣៥",
+      "seconds": 5.8,
+      "sizeBytes": 138816,
+      "sha256": "fc1d36a6e61b97c8a84cf9cdcb04ff47832c4dfa2db952b77a32e606ecdf6e82",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-35.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-35.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-36",
+      "fileName": "woman-36.mp3",
+      "relPath": "voices/women/woman-36.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 36",
+      "nameKh": "ស្ត្រី ៣៦",
+      "seconds": 8.2,
+      "sizeBytes": 196416,
+      "sha256": "085203a8bf1e1128878e7c7fe64b62e42fe7dfb61d3883eb28e534624d7a0ef2",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-36.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-36.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-37",
+      "fileName": "woman-37.mp3",
+      "relPath": "voices/women/woman-37.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 37",
+      "nameKh": "ស្ត្រី ៣៧",
+      "seconds": 5.8,
+      "sizeBytes": 138816,
+      "sha256": "0456790b96b061392a7c78fed10017343b35bdd24f879e918b1793896f0706fa",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-37.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-37.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-38",
+      "fileName": "woman-38.mp3",
+      "relPath": "voices/women/woman-38.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 38",
+      "nameKh": "ស្ត្រី ៣៨",
+      "seconds": 9,
+      "sizeBytes": 216000,
+      "sha256": "880a307a4ba2afd58b5c3d8b079989d455bf534cbb56294192a0ca85842859dd",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-38.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-38.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-39",
+      "fileName": "woman-39.mp3",
+      "relPath": "voices/women/woman-39.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 39",
+      "nameKh": "ស្ត្រី ៣៩",
+      "seconds": 6.3,
+      "sizeBytes": 150336,
+      "sha256": "f8175c34dc51fb22c7860d088bb625ff63cfda712fbf5f42ee6b338c8984c589",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-39.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-39.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-40",
+      "fileName": "woman-40.mp3",
+      "relPath": "voices/women/woman-40.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 40",
+      "nameKh": "ស្ត្រី ៤០",
+      "seconds": 9.6,
+      "sizeBytes": 230976,
+      "sha256": "6ab977c79d2d6256e2c33694668f7f3593bd9afb2a6613db2eb6e1cf879ac5fa",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-40.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-40.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-41",
+      "fileName": "woman-41.mp3",
+      "relPath": "voices/women/woman-41.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 41",
+      "nameKh": "ស្ត្រី ៤១",
+      "seconds": 6.7,
+      "sizeBytes": 161856,
+      "sha256": "74dccc4e3d881975304fa29e51cdf127a54bde248661dadbd74f665050bf5602",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-41.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-41.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-42",
+      "fileName": "woman-42.mp3",
+      "relPath": "voices/women/woman-42.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 42",
+      "nameKh": "ស្ត្រី ៤២",
+      "seconds": 8.4,
+      "sizeBytes": 200448,
+      "sha256": "147229ceabef8b1269a772bb79e71960ac946a793ea15e6fbc74d92694d777c6",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-42.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-42.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-43",
+      "fileName": "woman-43.mp3",
+      "relPath": "voices/women/woman-43.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 43",
+      "nameKh": "ស្ត្រី ៤៣",
+      "seconds": 6.7,
+      "sizeBytes": 161856,
+      "sha256": "8e38ad83e371bfa41ea5c931b22b9ade6060565a7713034893c87a3d32442aba",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-43.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-43.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "woman-44",
+      "fileName": "woman-44.mp3",
+      "relPath": "voices/women/woman-44.mp3",
+      "category": "women",
+      "categoryLabelEn": "Women",
+      "categoryLabelKh": "ស្ត្រី",
+      "gender": "Female",
+      "nameEn": "Woman 44",
+      "nameKh": "ស្ត្រី ៤៤",
+      "seconds": 6.4,
+      "sizeBytes": 154368,
+      "sha256": "718849b85cbbb9e02221d2906eb6238b5cbf48672b04df53f54f39592d5e5b73",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-44.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/women/woman-44.mp3",
+      "tags": [
+        {
+          "en": "Woman",
+          "kh": "ស្ត្រី"
+        }
+      ]
+    },
+    {
+      "id": "male-1",
+      "fileName": "male-1.wav",
+      "relPath": "voices/men/male-1.wav",
+      "category": "men",
+      "categoryLabelEn": "Men",
+      "categoryLabelKh": "បុរស",
+      "gender": "Male",
+      "nameEn": "Male Studio 01",
+      "nameKh": "សំឡេងប្រុស ១",
+      "seconds": 6.4,
+      "sizeBytes": 614444,
+      "sha256": "f2cb0cbcc241c8b1a853431d82d7d8afcd5fc207f2bcabd42414f65db3f6dc95",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-1.wav",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-1.wav",
+      "tags": [
+        {
+          "en": "Male",
+          "kh": "ប្រុស"
+        }
+      ]
+    },
+    {
+      "id": "male-2",
+      "fileName": "male-2.wav",
+      "relPath": "voices/men/male-2.wav",
+      "category": "men",
+      "categoryLabelEn": "Men",
+      "categoryLabelKh": "បុរស",
+      "gender": "Male",
+      "nameEn": "Male Studio 02",
+      "nameKh": "សំឡេងប្រុស ២",
+      "seconds": 3.4,
+      "sizeBytes": 322604,
+      "sha256": "049b4cb1bfc9e536b9ab7584d519e5464f406b2e09a5e187dd6ac5823eeb94de",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-2.wav",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-2.wav",
+      "tags": [
+        {
+          "en": "Male",
+          "kh": "ប្រុស"
+        }
+      ]
+    },
+    {
+      "id": "male-clone-01",
+      "fileName": "male-clone-01.mp3",
+      "relPath": "voices/men/male-clone-01.mp3",
+      "category": "men",
+      "categoryLabelEn": "Men",
+      "categoryLabelKh": "បុរស",
+      "gender": "Male",
+      "nameEn": "Male Voice 01",
+      "nameKh": "សំឡេងប្រុស ១",
+      "seconds": 14.4,
+      "sizeBytes": 346176,
+      "sha256": "aa0c6ce1cbc181c0d147d16eb726f340e406227783c1fd305e255c30e8f111ae",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-01.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-01.mp3",
+      "tags": [
+        {
+          "en": "Male Clone",
+          "kh": "សំឡេងប្រុស"
+        }
+      ]
+    },
+    {
+      "id": "male-clone-02",
+      "fileName": "male-clone-02.mp3",
+      "relPath": "voices/men/male-clone-02.mp3",
+      "category": "men",
+      "categoryLabelEn": "Men",
+      "categoryLabelKh": "បុរស",
+      "gender": "Male",
+      "nameEn": "Male Voice 02",
+      "nameKh": "សំឡេងប្រុស ២",
+      "seconds": 14.4,
+      "sizeBytes": 346176,
+      "sha256": "e128e81228e0c94f1b500942ec8ddbb021fc68075f158cd9b2610464e6a9ea8d",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-02.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-02.mp3",
+      "tags": [
+        {
+          "en": "Male Clone",
+          "kh": "សំឡេងប្រុស"
+        }
+      ]
+    },
+    {
+      "id": "male-clone-03",
+      "fileName": "male-clone-03.mp3",
+      "relPath": "voices/men/male-clone-03.mp3",
+      "category": "men",
+      "categoryLabelEn": "Men",
+      "categoryLabelKh": "បុរស",
+      "gender": "Male",
+      "nameEn": "Male Voice 03",
+      "nameKh": "សំឡេងប្រុស ៣",
+      "seconds": 13.2,
+      "sizeBytes": 315648,
+      "sha256": "5559eda9f6aa46a22888874317016337dc24fc2ec29456cefe859abf3200777d",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-03.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-03.mp3",
+      "tags": [
+        {
+          "en": "Male Clone",
+          "kh": "សំឡេងប្រុស"
+        }
+      ]
+    },
+    {
+      "id": "male-clone-04",
+      "fileName": "male-clone-04.mp3",
+      "relPath": "voices/men/male-clone-04.mp3",
+      "category": "men",
+      "categoryLabelEn": "Men",
+      "categoryLabelKh": "បុរស",
+      "gender": "Male",
+      "nameEn": "Male Voice 04",
+      "nameKh": "សំឡេងប្រុស ៤",
+      "seconds": 10.9,
+      "sizeBytes": 262080,
+      "sha256": "7e2533a938d001233cfef1a7b3d80be33472bf56e39ff3e49d52f722a7c6f7e7",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-04.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-04.mp3",
+      "tags": [
+        {
+          "en": "Male Clone",
+          "kh": "សំឡេងប្រុស"
+        }
+      ]
+    },
+    {
+      "id": "male-clone-05",
+      "fileName": "male-clone-05.mp3",
+      "relPath": "voices/men/male-clone-05.mp3",
+      "category": "men",
+      "categoryLabelEn": "Men",
+      "categoryLabelKh": "បុរស",
+      "gender": "Male",
+      "nameEn": "Male Voice 05",
+      "nameKh": "សំឡេងប្រុស ៥",
+      "seconds": 12.2,
+      "sizeBytes": 292608,
+      "sha256": "6a77b410ca42547ede2bf2846cddfeb210831631c26c62fbd6629f0046672736",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-05.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-05.mp3",
+      "tags": [
+        {
+          "en": "Male Clone",
+          "kh": "សំឡេងប្រុស"
+        }
+      ]
+    },
+    {
+      "id": "male-clone-06",
+      "fileName": "male-clone-06.mp3",
+      "relPath": "voices/men/male-clone-06.mp3",
+      "category": "men",
+      "categoryLabelEn": "Men",
+      "categoryLabelKh": "បុរស",
+      "gender": "Male",
+      "nameEn": "Male Voice 06",
+      "nameKh": "សំឡេងប្រុស ៦",
+      "seconds": 9.3,
+      "sizeBytes": 223488,
+      "sha256": "0aabc51f2a55a73a5499a748e1afaf86fe5a54ab65fe46eb1dfc60e8f0f13cb9",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-06.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-06.mp3",
+      "tags": [
+        {
+          "en": "Male Clone",
+          "kh": "សំឡេងប្រុស"
+        }
+      ]
+    },
+    {
+      "id": "male-clone-07",
+      "fileName": "male-clone-07.mp3",
+      "relPath": "voices/men/male-clone-07.mp3",
+      "category": "men",
+      "categoryLabelEn": "Men",
+      "categoryLabelKh": "បុរស",
+      "gender": "Male",
+      "nameEn": "Male Voice 07",
+      "nameKh": "សំឡេងប្រុស ៧",
+      "seconds": 12.2,
+      "sizeBytes": 292608,
+      "sha256": "ba1ebb147f86620f4eb4c77ddcf88c32dea8d4d2dceb8967ab63ce2731461f67",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-07.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-07.mp3",
+      "tags": [
+        {
+          "en": "Male Clone",
+          "kh": "សំឡេងប្រុស"
+        }
+      ]
+    },
+    {
+      "id": "male-clone-08",
+      "fileName": "male-clone-08.mp3",
+      "relPath": "voices/men/male-clone-08.mp3",
+      "category": "men",
+      "categoryLabelEn": "Men",
+      "categoryLabelKh": "បុរស",
+      "gender": "Male",
+      "nameEn": "Male Voice 08",
+      "nameKh": "សំឡេងប្រុស ៨",
+      "seconds": 14.8,
+      "sizeBytes": 354240,
+      "sha256": "f1bd88110e1869430188807c938220ea997ac6e5ac2f5e88fe8f6cb758dc22b2",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-08.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-08.mp3",
+      "tags": [
+        {
+          "en": "Male Clone",
+          "kh": "សំឡេងប្រុស"
+        }
+      ]
+    },
+    {
+      "id": "male-clone-09",
+      "fileName": "male-clone-09.mp3",
+      "relPath": "voices/men/male-clone-09.mp3",
+      "category": "men",
+      "categoryLabelEn": "Men",
+      "categoryLabelKh": "បុរស",
+      "gender": "Male",
+      "nameEn": "Male Voice 09",
+      "nameKh": "សំឡេងប្រុស ៩",
+      "seconds": 12.5,
+      "sizeBytes": 300096,
+      "sha256": "94c6b9751cc05b6acd2245a47579b46ffd6a47ae3587d9c07adea5b041a1d5ea",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-09.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-09.mp3",
+      "tags": [
+        {
+          "en": "Male Clone",
+          "kh": "សំឡេងប្រុស"
+        }
+      ]
+    },
+    {
+      "id": "male-clone-10",
+      "fileName": "male-clone-10.mp3",
+      "relPath": "voices/men/male-clone-10.mp3",
+      "category": "men",
+      "categoryLabelEn": "Men",
+      "categoryLabelKh": "បុរស",
+      "gender": "Male",
+      "nameEn": "Male Voice 10",
+      "nameKh": "សំឡេងប្រុស ១០",
+      "seconds": 14.8,
+      "sizeBytes": 354240,
+      "sha256": "f0350cdfd8359e8fc44ed05fb583a56c65eafba69e7cca75f5bd30e5c0589ee2",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-10.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-10.mp3",
+      "tags": [
+        {
+          "en": "Male Clone",
+          "kh": "សំឡេងប្រុស"
+        }
+      ]
+    },
+    {
+      "id": "male-clone-11",
+      "fileName": "male-clone-11.mp3",
+      "relPath": "voices/men/male-clone-11.mp3",
+      "category": "men",
+      "categoryLabelEn": "Men",
+      "categoryLabelKh": "បុរស",
+      "gender": "Male",
+      "nameEn": "Male Voice 11",
+      "nameKh": "សំឡេងប្រុស ១១",
+      "seconds": 11.2,
+      "sizeBytes": 269568,
+      "sha256": "cc1df8e7395b1e9a5b50d618efe8b2a8fa241c57cc20d7904e700b113101dd2e",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-11.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-11.mp3",
+      "tags": [
+        {
+          "en": "Male Clone",
+          "kh": "សំឡេងប្រុស"
+        }
+      ]
+    },
+    {
+      "id": "male-clone-12",
+      "fileName": "male-clone-12.mp3",
+      "relPath": "voices/men/male-clone-12.mp3",
+      "category": "men",
+      "categoryLabelEn": "Men",
+      "categoryLabelKh": "បុរស",
+      "gender": "Male",
+      "nameEn": "Male Voice 12",
+      "nameKh": "សំឡេងប្រុស ១២",
+      "seconds": 16.2,
+      "sizeBytes": 388800,
+      "sha256": "4cbac6545f556f609ee32ab204c4ef778a38d28e44ada5a63bdcf2e8c3c9f0d4",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-12.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-12.mp3",
+      "tags": [
+        {
+          "en": "Male Clone",
+          "kh": "សំឡេងប្រុស"
+        }
+      ]
+    },
+    {
+      "id": "male-clone-13",
+      "fileName": "male-clone-13.mp3",
+      "relPath": "voices/men/male-clone-13.mp3",
+      "category": "men",
+      "categoryLabelEn": "Men",
+      "categoryLabelKh": "បុរស",
+      "gender": "Male",
+      "nameEn": "Male Voice 13",
+      "nameKh": "សំឡេងប្រុស ១៣",
+      "seconds": 12,
+      "sizeBytes": 288576,
+      "sha256": "065b36afa6f0a0aefb2ab18fa26ec17aee82920ecd7f6aa9a0e841f2afb2bc1d",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-13.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-13.mp3",
+      "tags": [
+        {
+          "en": "Male Clone",
+          "kh": "សំឡេងប្រុស"
+        }
+      ]
+    },
+    {
+      "id": "male-clone-14",
+      "fileName": "male-clone-14.mp3",
+      "relPath": "voices/men/male-clone-14.mp3",
+      "category": "men",
+      "categoryLabelEn": "Men",
+      "categoryLabelKh": "បុរស",
+      "gender": "Male",
+      "nameEn": "Male Voice 14",
+      "nameKh": "សំឡេងប្រុស ១៤",
+      "seconds": 12.7,
+      "sizeBytes": 304128,
+      "sha256": "57bec47d89c17a483c6770addb5398c59e69ac6f029d6b51c16a41cfa8cf27f4",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-14.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-14.mp3",
+      "tags": [
+        {
+          "en": "Male Clone",
+          "kh": "សំឡេងប្រុស"
+        }
+      ]
+    },
+    {
+      "id": "male-clone-15",
+      "fileName": "male-clone-15.mp3",
+      "relPath": "voices/men/male-clone-15.mp3",
+      "category": "men",
+      "categoryLabelEn": "Men",
+      "categoryLabelKh": "បុរស",
+      "gender": "Male",
+      "nameEn": "Male Voice 15",
+      "nameKh": "សំឡេងប្រុស ១៥",
+      "seconds": 12.5,
+      "sizeBytes": 300096,
+      "sha256": "aa99d410a98b65c7ec4f9fe6af150e4927f6a610a7f13920db85817a91082dc9",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-15.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-15.mp3",
+      "tags": [
+        {
+          "en": "Male Clone",
+          "kh": "សំឡេងប្រុស"
+        }
+      ]
+    },
+    {
+      "id": "male-clone-16",
+      "fileName": "male-clone-16.mp3",
+      "relPath": "voices/men/male-clone-16.mp3",
+      "category": "men",
+      "categoryLabelEn": "Men",
+      "categoryLabelKh": "បុរស",
+      "gender": "Male",
+      "nameEn": "Male Voice 16",
+      "nameKh": "សំឡេងប្រុស ១៦",
+      "seconds": 13.2,
+      "sizeBytes": 315648,
+      "sha256": "87cc0443e00662a1e712f7d8e4ec6f2163485c772069da081f746f1ebf203601",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-16.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-16.mp3",
+      "tags": [
+        {
+          "en": "Male Clone",
+          "kh": "សំឡេងប្រុស"
+        }
+      ]
+    },
+    {
+      "id": "male-clone-17",
+      "fileName": "male-clone-17.mp3",
+      "relPath": "voices/men/male-clone-17.mp3",
+      "category": "men",
+      "categoryLabelEn": "Men",
+      "categoryLabelKh": "បុរស",
+      "gender": "Male",
+      "nameEn": "Male Voice 17",
+      "nameKh": "សំឡេងប្រុស ១៧",
+      "seconds": 16.5,
+      "sizeBytes": 396288,
+      "sha256": "e669f7d268332d90085b59277c51a8539b00acd9ea985812bef0fc18b0f946e9",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-17.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-17.mp3",
+      "tags": [
+        {
+          "en": "Male Clone",
+          "kh": "សំឡេងប្រុស"
+        }
+      ]
+    },
+    {
+      "id": "male-clone-18",
+      "fileName": "male-clone-18.mp3",
+      "relPath": "voices/men/male-clone-18.mp3",
+      "category": "men",
+      "categoryLabelEn": "Men",
+      "categoryLabelKh": "បុរស",
+      "gender": "Male",
+      "nameEn": "Male Voice 18",
+      "nameKh": "សំឡេងប្រុស ១៨",
+      "seconds": 15.6,
+      "sizeBytes": 373248,
+      "sha256": "4373abe0ce75e4cba705ad9152bc35e868198f0891127123b15eef66d527c141",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-18.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-18.mp3",
+      "tags": [
+        {
+          "en": "Male Clone",
+          "kh": "សំឡេងប្រុស"
+        }
+      ]
+    },
+    {
+      "id": "male-clone-19",
+      "fileName": "male-clone-19.mp3",
+      "relPath": "voices/men/male-clone-19.mp3",
+      "category": "men",
+      "categoryLabelEn": "Men",
+      "categoryLabelKh": "បុរស",
+      "gender": "Male",
+      "nameEn": "Male Voice 19",
+      "nameKh": "សំឡេងប្រុស ១៩",
+      "seconds": 12.2,
+      "sizeBytes": 292608,
+      "sha256": "aaf03715c491dbe59a37605c2683fe6c164a8ec1dac1f9134bdbbd0fabd77fb6",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-19.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-19.mp3",
+      "tags": [
+        {
+          "en": "Male Clone",
+          "kh": "សំឡេងប្រុស"
+        }
+      ]
+    },
+    {
+      "id": "male-clone-20",
+      "fileName": "male-clone-20.mp3",
+      "relPath": "voices/men/male-clone-20.mp3",
+      "category": "men",
+      "categoryLabelEn": "Men",
+      "categoryLabelKh": "បុរស",
+      "gender": "Male",
+      "nameEn": "Male Voice 20",
+      "nameKh": "សំឡេងប្រុស ២០",
+      "seconds": 11.5,
+      "sizeBytes": 277056,
+      "sha256": "1aaece7031fcaa9a0028b81c356515fa05337bfe8ec69fe0edb56933c6b56a28",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-20.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-20.mp3",
+      "tags": [
+        {
+          "en": "Male Clone",
+          "kh": "សំឡេងប្រុស"
+        }
+      ]
+    },
+    {
+      "id": "male-clone-21",
+      "fileName": "male-clone-21.mp3",
+      "relPath": "voices/men/male-clone-21.mp3",
+      "category": "men",
+      "categoryLabelEn": "Men",
+      "categoryLabelKh": "បុរស",
+      "gender": "Male",
+      "nameEn": "Male Voice 21",
+      "nameKh": "សំឡេងប្រុស ២១",
+      "seconds": 14.3,
+      "sizeBytes": 342720,
+      "sha256": "be59a5208dcf9f56f2cee1e99bd33f9b74aa1dfba4840c22610f0a1752437364",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-21.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-21.mp3",
+      "tags": [
+        {
+          "en": "Male Clone",
+          "kh": "សំឡេងប្រុស"
+        }
+      ]
+    },
+    {
+      "id": "male-clone-22",
+      "fileName": "male-clone-22.mp3",
+      "relPath": "voices/men/male-clone-22.mp3",
+      "category": "men",
+      "categoryLabelEn": "Men",
+      "categoryLabelKh": "បុរស",
+      "gender": "Male",
+      "nameEn": "Male Voice 22",
+      "nameKh": "សំឡេងប្រុស ២២",
+      "seconds": 13.9,
+      "sizeBytes": 334656,
+      "sha256": "9291003a7efb08073861ef0148cfaec9569934121e77285335d5586493e52a42",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-22.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/male-clone-22.mp3",
+      "tags": [
+        {
+          "en": "Male Clone",
+          "kh": "សំឡេងប្រុស"
+        }
+      ]
+    },
+    {
+      "id": "man",
+      "fileName": "man.wav",
+      "relPath": "voices/men/man.wav",
+      "category": "men",
+      "categoryLabelEn": "Men",
+      "categoryLabelKh": "បុរស",
+      "gender": "Male",
+      "nameEn": "Man",
+      "nameKh": "បុរស",
+      "seconds": 3.8,
+      "sizeBytes": 368684,
+      "sha256": "adc459f7cbb5356032b748cc749e470472826102cfc27d263e48149e8a2f4743",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/man.wav",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/men/man.wav",
+      "tags": [
+        {
+          "en": "Male",
+          "kh": "ប្រុស"
+        }
+      ]
+    },
+    {
+      "id": "father-classic",
+      "fileName": "father-classic.mp3",
+      "relPath": "voices/father/father-classic.mp3",
+      "category": "father",
+      "categoryLabelEn": "Father",
+      "categoryLabelKh": "ប៉ា",
+      "gender": "Male",
+      "nameEn": "Father (Classic)",
+      "nameKh": "ប៉ា (គំរូដើម)",
+      "seconds": 4.2,
+      "sizeBytes": 100800,
+      "sha256": "5b6b6264383e15b6c0c8bf3c3d77b8e3e20da0993a0db8e691e74b69a7b738e1",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-classic.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-classic.mp3",
+      "tags": [
+        {
+          "en": "Family",
+          "kh": "គ្រួសារ"
+        }
+      ]
+    },
+    {
+      "id": "father-01",
+      "fileName": "father-01.mp3",
+      "relPath": "voices/father/father-01.mp3",
+      "category": "father",
+      "categoryLabelEn": "Father",
+      "categoryLabelKh": "ប៉ា",
+      "gender": "Male",
+      "nameEn": "Father 01",
+      "nameKh": "ប៉ា ១",
+      "seconds": 7.1,
+      "sizeBytes": 169920,
+      "sha256": "52500aa93ab22b8eaf8dabfb597a4243207379f16b41d6a92b7963b7424d7da8",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-01.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-01.mp3",
+      "tags": [
+        {
+          "en": "Father",
+          "kh": "ប៉ា"
+        }
+      ]
+    },
+    {
+      "id": "father-02",
+      "fileName": "father-02.mp3",
+      "relPath": "voices/father/father-02.mp3",
+      "category": "father",
+      "categoryLabelEn": "Father",
+      "categoryLabelKh": "ប៉ា",
+      "gender": "Male",
+      "nameEn": "Father 02",
+      "nameKh": "ប៉ា ២",
+      "seconds": 5.5,
+      "sizeBytes": 131328,
+      "sha256": "0d08a081087b6acbb2b93576c48cf6ae07ce94be39161557fd8205fe74a3133d",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-02.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-02.mp3",
+      "tags": [
+        {
+          "en": "Father",
+          "kh": "ប៉ា"
+        }
+      ]
+    },
+    {
+      "id": "father-03",
+      "fileName": "father-03.mp3",
+      "relPath": "voices/father/father-03.mp3",
+      "category": "father",
+      "categoryLabelEn": "Father",
+      "categoryLabelKh": "ប៉ា",
+      "gender": "Male",
+      "nameEn": "Father 03",
+      "nameKh": "ប៉ា ៣",
+      "seconds": 7.4,
+      "sizeBytes": 177408,
+      "sha256": "3a15ae48b966760a24391e8edb8717b2fbbd56e14085e96d90be9bd7532f2cdc",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-03.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-03.mp3",
+      "tags": [
+        {
+          "en": "Father",
+          "kh": "ប៉ា"
+        }
+      ]
+    },
+    {
+      "id": "father-04",
+      "fileName": "father-04.mp3",
+      "relPath": "voices/father/father-04.mp3",
+      "category": "father",
+      "categoryLabelEn": "Father",
+      "categoryLabelKh": "ប៉ា",
+      "gender": "Male",
+      "nameEn": "Father 04",
+      "nameKh": "ប៉ា ៤",
+      "seconds": 7.1,
+      "sizeBytes": 169920,
+      "sha256": "7793a3819880894b034be6251a0b3065f7a9e0b9e41a0d972e0b750f546b3205",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-04.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-04.mp3",
+      "tags": [
+        {
+          "en": "Father",
+          "kh": "ប៉ា"
+        }
+      ]
+    },
+    {
+      "id": "father-05",
+      "fileName": "father-05.mp3",
+      "relPath": "voices/father/father-05.mp3",
+      "category": "father",
+      "categoryLabelEn": "Father",
+      "categoryLabelKh": "ប៉ា",
+      "gender": "Male",
+      "nameEn": "Father 05",
+      "nameKh": "ប៉ា ៥",
+      "seconds": 6.3,
+      "sizeBytes": 150336,
+      "sha256": "4c15ebb9fb039b25a7ccb6e0336179295b7fdd1b7a0c7f8b094b4f6885e37124",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-05.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-05.mp3",
+      "tags": [
+        {
+          "en": "Father",
+          "kh": "ប៉ា"
+        }
+      ]
+    },
+    {
+      "id": "father-06",
+      "fileName": "father-06.mp3",
+      "relPath": "voices/father/father-06.mp3",
+      "category": "father",
+      "categoryLabelEn": "Father",
+      "categoryLabelKh": "ប៉ា",
+      "gender": "Male",
+      "nameEn": "Father 06",
+      "nameKh": "ប៉ា ៦",
+      "seconds": 6.9,
+      "sizeBytes": 165888,
+      "sha256": "6ca9d1c5fc54d3903044700c4014e8dc0648743a5655d6ec3bfce90a0afd83bb",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-06.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-06.mp3",
+      "tags": [
+        {
+          "en": "Father",
+          "kh": "ប៉ា"
+        }
+      ]
+    },
+    {
+      "id": "father-07",
+      "fileName": "father-07.mp3",
+      "relPath": "voices/father/father-07.mp3",
+      "category": "father",
+      "categoryLabelEn": "Father",
+      "categoryLabelKh": "ប៉ា",
+      "gender": "Male",
+      "nameEn": "Father 07",
+      "nameKh": "ប៉ា ៧",
+      "seconds": 5.5,
+      "sizeBytes": 131328,
+      "sha256": "06f1bce596944939dcb05c81de237e76ea884a75305f9975b3a6661275ed36c9",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-07.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-07.mp3",
+      "tags": [
+        {
+          "en": "Father",
+          "kh": "ប៉ា"
+        }
+      ]
+    },
+    {
+      "id": "father-08",
+      "fileName": "father-08.mp3",
+      "relPath": "voices/father/father-08.mp3",
+      "category": "father",
+      "categoryLabelEn": "Father",
+      "categoryLabelKh": "ប៉ា",
+      "gender": "Male",
+      "nameEn": "Father 08",
+      "nameKh": "ប៉ា ៨",
+      "seconds": 5.6,
+      "sizeBytes": 135360,
+      "sha256": "a5957cfd4d371fe0c4dd954f57348b671788a2a18d08ac5309ade2ea4cb99cae",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-08.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-08.mp3",
+      "tags": [
+        {
+          "en": "Father",
+          "kh": "ប៉ា"
+        }
+      ]
+    },
+    {
+      "id": "father-09",
+      "fileName": "father-09.mp3",
+      "relPath": "voices/father/father-09.mp3",
+      "category": "father",
+      "categoryLabelEn": "Father",
+      "categoryLabelKh": "ប៉ា",
+      "gender": "Male",
+      "nameEn": "Father 09",
+      "nameKh": "ប៉ា ៩",
+      "seconds": 8.5,
+      "sizeBytes": 204480,
+      "sha256": "adfb30f07d3284466f62fb801987cb35c39f208b7a708605fb0d3e0f953c3ae7",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-09.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-09.mp3",
+      "tags": [
+        {
+          "en": "Father",
+          "kh": "ប៉ា"
+        }
+      ]
+    },
+    {
+      "id": "father-10",
+      "fileName": "father-10.mp3",
+      "relPath": "voices/father/father-10.mp3",
+      "category": "father",
+      "categoryLabelEn": "Father",
+      "categoryLabelKh": "ប៉ា",
+      "gender": "Male",
+      "nameEn": "Father 10",
+      "nameKh": "ប៉ា ១០",
+      "seconds": 6.9,
+      "sizeBytes": 165888,
+      "sha256": "9ab3d1d8e0dfa077b964232dc4bd27245662ab2a6e496a72402078f3b33f1d04",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-10.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-10.mp3",
+      "tags": [
+        {
+          "en": "Father",
+          "kh": "ប៉ា"
+        }
+      ]
+    },
+    {
+      "id": "father-11",
+      "fileName": "father-11.mp3",
+      "relPath": "voices/father/father-11.mp3",
+      "category": "father",
+      "categoryLabelEn": "Father",
+      "categoryLabelKh": "ប៉ា",
+      "gender": "Male",
+      "nameEn": "Father 11",
+      "nameKh": "ប៉ា ១១",
+      "seconds": 7.4,
+      "sizeBytes": 177408,
+      "sha256": "e4f0a4bdf336d66acc141a2254d48e7cc22a34ab52e9809aaca8e300c061fbff",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-11.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-11.mp3",
+      "tags": [
+        {
+          "en": "Father",
+          "kh": "ប៉ា"
+        }
+      ]
+    },
+    {
+      "id": "father-12",
+      "fileName": "father-12.mp3",
+      "relPath": "voices/father/father-12.mp3",
+      "category": "father",
+      "categoryLabelEn": "Father",
+      "categoryLabelKh": "ប៉ា",
+      "gender": "Male",
+      "nameEn": "Father 12",
+      "nameKh": "ប៉ា ១២",
+      "seconds": 6.1,
+      "sizeBytes": 146880,
+      "sha256": "8ceba2bbdf75c45c3cbe6240315a654c9cf2994f100c7379ddf29c1112628912",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-12.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-12.mp3",
+      "tags": [
+        {
+          "en": "Father",
+          "kh": "ប៉ា"
+        }
+      ]
+    },
+    {
+      "id": "father-13",
+      "fileName": "father-13.mp3",
+      "relPath": "voices/father/father-13.mp3",
+      "category": "father",
+      "categoryLabelEn": "Father",
+      "categoryLabelKh": "ប៉ា",
+      "gender": "Male",
+      "nameEn": "Father 13",
+      "nameKh": "ប៉ា ១៣",
+      "seconds": 6.3,
+      "sizeBytes": 150336,
+      "sha256": "a1346acb36f5a607c084037592b5dba1c49b6f250bc92d20e60ea899ece326cc",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-13.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-13.mp3",
+      "tags": [
+        {
+          "en": "Father",
+          "kh": "ប៉ា"
+        }
+      ]
+    },
+    {
+      "id": "father-14",
+      "fileName": "father-14.mp3",
+      "relPath": "voices/father/father-14.mp3",
+      "category": "father",
+      "categoryLabelEn": "Father",
+      "categoryLabelKh": "ប៉ា",
+      "gender": "Male",
+      "nameEn": "Father 14",
+      "nameKh": "ប៉ា ១៤",
+      "seconds": 7.7,
+      "sizeBytes": 184896,
+      "sha256": "7157a0e82b63b8135649fff537ca66c981071f6f3a1855f9024e9810dff4fcd2",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-14.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-14.mp3",
+      "tags": [
+        {
+          "en": "Father",
+          "kh": "ប៉ា"
+        }
+      ]
+    },
+    {
+      "id": "father-15",
+      "fileName": "father-15.mp3",
+      "relPath": "voices/father/father-15.mp3",
+      "category": "father",
+      "categoryLabelEn": "Father",
+      "categoryLabelKh": "ប៉ា",
+      "gender": "Male",
+      "nameEn": "Father 15",
+      "nameKh": "ប៉ា ១៥",
+      "seconds": 7.7,
+      "sizeBytes": 184896,
+      "sha256": "d559a4d727e5bec78fb2b143425f81a1f2f68a6ae27e825cd1e03764ac2bed3f",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-15.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-15.mp3",
+      "tags": [
+        {
+          "en": "Father",
+          "kh": "ប៉ា"
+        }
+      ]
+    },
+    {
+      "id": "father-16",
+      "fileName": "father-16.mp3",
+      "relPath": "voices/father/father-16.mp3",
+      "category": "father",
+      "categoryLabelEn": "Father",
+      "categoryLabelKh": "ប៉ា",
+      "gender": "Male",
+      "nameEn": "Father 16",
+      "nameKh": "ប៉ា ១៦",
+      "seconds": 5.3,
+      "sizeBytes": 127296,
+      "sha256": "788465687bb9c80a143ea4a1c3b3775a643193a824c4b428ed836297dd2b7aa3",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-16.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-16.mp3",
+      "tags": [
+        {
+          "en": "Father",
+          "kh": "ប៉ា"
+        }
+      ]
+    },
+    {
+      "id": "father-17",
+      "fileName": "father-17.mp3",
+      "relPath": "voices/father/father-17.mp3",
+      "category": "father",
+      "categoryLabelEn": "Father",
+      "categoryLabelKh": "ប៉ា",
+      "gender": "Male",
+      "nameEn": "Father 17",
+      "nameKh": "ប៉ា ១៧",
+      "seconds": 7.7,
+      "sizeBytes": 184896,
+      "sha256": "f8dc6910320c60e76e91e9f7c71e485c1afd7bd4d242f9f2080de18dfbc8e114",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-17.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-17.mp3",
+      "tags": [
+        {
+          "en": "Father",
+          "kh": "ប៉ា"
+        }
+      ]
+    },
+    {
+      "id": "father-18",
+      "fileName": "father-18.mp3",
+      "relPath": "voices/father/father-18.mp3",
+      "category": "father",
+      "categoryLabelEn": "Father",
+      "categoryLabelKh": "ប៉ា",
+      "gender": "Male",
+      "nameEn": "Father 18",
+      "nameKh": "ប៉ា ១៨",
+      "seconds": 7.7,
+      "sizeBytes": 184896,
+      "sha256": "5576a6e1f4e256b40eef2bd85662d9187c6a661b36095ead346aaf4b560d40dd",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-18.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-18.mp3",
+      "tags": [
+        {
+          "en": "Father",
+          "kh": "ប៉ា"
+        }
+      ]
+    },
+    {
+      "id": "father-19",
+      "fileName": "father-19.mp3",
+      "relPath": "voices/father/father-19.mp3",
+      "category": "father",
+      "categoryLabelEn": "Father",
+      "categoryLabelKh": "ប៉ា",
+      "gender": "Male",
+      "nameEn": "Father 19",
+      "nameKh": "ប៉ា ១៩",
+      "seconds": 9,
+      "sizeBytes": 216000,
+      "sha256": "e9c4a66109a0a4763c163d8bb5cf943f4a13b7c75924ef408b1da9fbf378e00c",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-19.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-19.mp3",
+      "tags": [
+        {
+          "en": "Father",
+          "kh": "ប៉ា"
+        }
+      ]
+    },
+    {
+      "id": "father-20",
+      "fileName": "father-20.mp3",
+      "relPath": "voices/father/father-20.mp3",
+      "category": "father",
+      "categoryLabelEn": "Father",
+      "categoryLabelKh": "ប៉ា",
+      "gender": "Male",
+      "nameEn": "Father 20",
+      "nameKh": "ប៉ា ២០",
+      "seconds": 5.3,
+      "sizeBytes": 127296,
+      "sha256": "14147d881517ce127e49dae4e860845756fbbfe9c0615daabf034ba13f365c2c",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-20.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-20.mp3",
+      "tags": [
+        {
+          "en": "Father",
+          "kh": "ប៉ា"
+        }
+      ]
+    },
+    {
+      "id": "father-21",
+      "fileName": "father-21.mp3",
+      "relPath": "voices/father/father-21.mp3",
+      "category": "father",
+      "categoryLabelEn": "Father",
+      "categoryLabelKh": "ប៉ា",
+      "gender": "Male",
+      "nameEn": "Father 21",
+      "nameKh": "ប៉ា ២១",
+      "seconds": 6.9,
+      "sizeBytes": 165888,
+      "sha256": "3c19c7d90b23b02ee37de2e1525055f7eee76aef72d1cba5ef41b2e82c9f6b66",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-21.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-21.mp3",
+      "tags": [
+        {
+          "en": "Father",
+          "kh": "ប៉ា"
+        }
+      ]
+    },
+    {
+      "id": "father-22",
+      "fileName": "father-22.mp3",
+      "relPath": "voices/father/father-22.mp3",
+      "category": "father",
+      "categoryLabelEn": "Father",
+      "categoryLabelKh": "ប៉ា",
+      "gender": "Male",
+      "nameEn": "Father 22",
+      "nameKh": "ប៉ា ២២",
+      "seconds": 6.7,
+      "sizeBytes": 161856,
+      "sha256": "911723ed7c6761f3ee0b9bf961c918914551f273dfcc6c8b2e53ffe87f1737d6",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-22.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-22.mp3",
+      "tags": [
+        {
+          "en": "Father",
+          "kh": "ប៉ា"
+        }
+      ]
+    },
+    {
+      "id": "father-23",
+      "fileName": "father-23.mp3",
+      "relPath": "voices/father/father-23.mp3",
+      "category": "father",
+      "categoryLabelEn": "Father",
+      "categoryLabelKh": "ប៉ា",
+      "gender": "Male",
+      "nameEn": "Father 23",
+      "nameKh": "ប៉ា ២៣",
+      "seconds": 5.3,
+      "sizeBytes": 127296,
+      "sha256": "0deebe741bf7ed40f79cd84772419e6259c5261a964d3d33c9fe57c37dd46304",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-23.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-23.mp3",
+      "tags": [
+        {
+          "en": "Father",
+          "kh": "ប៉ា"
+        }
+      ]
+    },
+    {
+      "id": "father-24",
+      "fileName": "father-24.mp3",
+      "relPath": "voices/father/father-24.mp3",
+      "category": "father",
+      "categoryLabelEn": "Father",
+      "categoryLabelKh": "ប៉ា",
+      "gender": "Male",
+      "nameEn": "Father 24",
+      "nameKh": "ប៉ា ២៤",
+      "seconds": 8,
+      "sizeBytes": 192960,
+      "sha256": "4fe974f7c2204fc6935cf8a5480d7cdaf0b29add51b9b1ee1bf6891c565e5eec",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-24.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-24.mp3",
+      "tags": [
+        {
+          "en": "Father",
+          "kh": "ប៉ា"
+        }
+      ]
+    },
+    {
+      "id": "father-25",
+      "fileName": "father-25.mp3",
+      "relPath": "voices/father/father-25.mp3",
+      "category": "father",
+      "categoryLabelEn": "Father",
+      "categoryLabelKh": "ប៉ា",
+      "gender": "Male",
+      "nameEn": "Father 25",
+      "nameKh": "ប៉ា ២៥",
+      "seconds": 8,
+      "sizeBytes": 192960,
+      "sha256": "4845d00e960adbc7c3d25f081e05e44a1e45de628cfa398e651731e8ebfec172",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-25.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-25.mp3",
+      "tags": [
+        {
+          "en": "Father",
+          "kh": "ប៉ា"
+        }
+      ]
+    },
+    {
+      "id": "father-26",
+      "fileName": "father-26.mp3",
+      "relPath": "voices/father/father-26.mp3",
+      "category": "father",
+      "categoryLabelEn": "Father",
+      "categoryLabelKh": "ប៉ា",
+      "gender": "Male",
+      "nameEn": "Father 26",
+      "nameKh": "ប៉ា ២៦",
+      "seconds": 6,
+      "sizeBytes": 142848,
+      "sha256": "5f0965f3a569d56edc42e704ea6db04ed042080551181ece4617208faca2744c",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-26.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-26.mp3",
+      "tags": [
+        {
+          "en": "Father",
+          "kh": "ប៉ា"
+        }
+      ]
+    },
+    {
+      "id": "father-27",
+      "fileName": "father-27.mp3",
+      "relPath": "voices/father/father-27.mp3",
+      "category": "father",
+      "categoryLabelEn": "Father",
+      "categoryLabelKh": "ប៉ា",
+      "gender": "Male",
+      "nameEn": "Father 27",
+      "nameKh": "ប៉ា ២៧",
+      "seconds": 5.3,
+      "sizeBytes": 127296,
+      "sha256": "c8019860a01ede37c77cb750ddc928fab7cc20c1c40468d7571095b187165db5",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-27.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/father/father-27.mp3",
+      "tags": [
+        {
+          "en": "Father",
+          "kh": "ប៉ា"
+        }
+      ]
+    },
+    {
+      "id": "dad-old-man",
+      "fileName": "dad-old-man.wav",
+      "relPath": "voices/elders/dad-old-man.wav",
+      "category": "elders",
+      "categoryLabelEn": "Elders",
+      "categoryLabelKh": "តា & យាយ",
+      "gender": "Male",
+      "nameEn": "Dad · Older Man",
+      "nameKh": "ប៉ាវ័យចំណាស់",
+      "seconds": 4.8,
+      "sizeBytes": 460844,
+      "sha256": "efaf3fbf4b9fb508b65420ba805b7588f642bcc9fa7ca732d0da39028593862d",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/dad-old-man.wav",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/dad-old-man.wav",
+      "tags": [
+        {
+          "en": "Elder",
+          "kh": "មនុស្សចាស់"
+        }
+      ]
+    },
+    {
+      "id": "elderly-grandma",
+      "fileName": "elderly-grandma.wav",
+      "relPath": "voices/elders/elderly-grandma.wav",
+      "category": "elders",
+      "categoryLabelEn": "Elders",
+      "categoryLabelKh": "តា & យាយ",
+      "gender": "Female",
+      "nameEn": "Elderly Grandma",
+      "nameKh": "យាយចាស់",
+      "seconds": 6.7,
+      "sizeBytes": 645164,
+      "sha256": "939d7b5fd15443ad73b56cd2d8a12ea25754d405f135c74818a5580e128e1bbc",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/elderly-grandma.wav",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/elderly-grandma.wav",
+      "tags": [
+        {
+          "en": "Elder",
+          "kh": "មនុស្សចាស់"
+        }
+      ]
+    },
+    {
+      "id": "grandma-01",
+      "fileName": "grandma-01.mp3",
+      "relPath": "voices/elders/grandma-01.mp3",
+      "category": "elders",
+      "categoryLabelEn": "Elders",
+      "categoryLabelKh": "តា & យាយ",
+      "gender": "Female",
+      "nameEn": "Grandma 01",
+      "nameKh": "យាយ ១",
+      "seconds": 9.5,
+      "sizeBytes": 227520,
+      "sha256": "f8294e9c87104ae6014534acbaff8bbefcf875c8c4b4d91e0826b4f36307dea4",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandma-01.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandma-01.mp3",
+      "tags": [
+        {
+          "en": "Elder",
+          "kh": "មនុស្សចាស់"
+        }
+      ]
+    },
+    {
+      "id": "grandma-02",
+      "fileName": "grandma-02.mp3",
+      "relPath": "voices/elders/grandma-02.mp3",
+      "category": "elders",
+      "categoryLabelEn": "Elders",
+      "categoryLabelKh": "តា & យាយ",
+      "gender": "Female",
+      "nameEn": "Grandma 02",
+      "nameKh": "យាយ ២",
+      "seconds": 8.5,
+      "sizeBytes": 204480,
+      "sha256": "5873de925bae0082cea4e708204808a801c6b2e7603858b97beea370cc54a4ee",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandma-02.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandma-02.mp3",
+      "tags": [
+        {
+          "en": "Elder",
+          "kh": "មនុស្សចាស់"
+        }
+      ]
+    },
+    {
+      "id": "grandma-03",
+      "fileName": "grandma-03.mp3",
+      "relPath": "voices/elders/grandma-03.mp3",
+      "category": "elders",
+      "categoryLabelEn": "Elders",
+      "categoryLabelKh": "តា & យាយ",
+      "gender": "Female",
+      "nameEn": "Grandma 03",
+      "nameKh": "យាយ ៣",
+      "seconds": 8.4,
+      "sizeBytes": 200448,
+      "sha256": "de3f40227085bc4c2d6118db15c73ff49c3fcb5ab050969d722175b584286f42",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandma-03.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandma-03.mp3",
+      "tags": [
+        {
+          "en": "Elder",
+          "kh": "មនុស្សចាស់"
+        }
+      ]
+    },
+    {
+      "id": "grandma-04",
+      "fileName": "grandma-04.mp3",
+      "relPath": "voices/elders/grandma-04.mp3",
+      "category": "elders",
+      "categoryLabelEn": "Elders",
+      "categoryLabelKh": "តា & យាយ",
+      "gender": "Female",
+      "nameEn": "Grandma 04",
+      "nameKh": "យាយ ៤",
+      "seconds": 7.6,
+      "sizeBytes": 181440,
+      "sha256": "1a1b66e5a1288e0b86b78ff47253719793b97ae73511496b192a6b815475f929",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandma-04.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandma-04.mp3",
+      "tags": [
+        {
+          "en": "Elder",
+          "kh": "មនុស្សចាស់"
+        }
+      ]
+    },
+    {
+      "id": "grandma-05",
+      "fileName": "grandma-05.mp3",
+      "relPath": "voices/elders/grandma-05.mp3",
+      "category": "elders",
+      "categoryLabelEn": "Elders",
+      "categoryLabelKh": "តា & យាយ",
+      "gender": "Female",
+      "nameEn": "Grandma 05",
+      "nameKh": "យាយ ៥",
+      "seconds": 8.2,
+      "sizeBytes": 196416,
+      "sha256": "04f804deb5e4f51787fd885cf4808d6bd15ba1cee242e3fd7f578be91a515b75",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandma-05.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandma-05.mp3",
+      "tags": [
+        {
+          "en": "Elder",
+          "kh": "មនុស្សចាស់"
+        }
+      ]
+    },
+    {
+      "id": "grandma-06",
+      "fileName": "grandma-06.mp3",
+      "relPath": "voices/elders/grandma-06.mp3",
+      "category": "elders",
+      "categoryLabelEn": "Elders",
+      "categoryLabelKh": "តា & យាយ",
+      "gender": "Female",
+      "nameEn": "Grandma 06",
+      "nameKh": "យាយ ៦",
+      "seconds": 8.5,
+      "sizeBytes": 204480,
+      "sha256": "7b133a3d0182286084d03536cb8e695577efc9dc8f48344e9a18b372f365f2ab",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandma-06.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandma-06.mp3",
+      "tags": [
+        {
+          "en": "Elder",
+          "kh": "មនុស្សចាស់"
+        }
+      ]
+    },
+    {
+      "id": "grandma-07",
+      "fileName": "grandma-07.mp3",
+      "relPath": "voices/elders/grandma-07.mp3",
+      "category": "elders",
+      "categoryLabelEn": "Elders",
+      "categoryLabelKh": "តា & យាយ",
+      "gender": "Female",
+      "nameEn": "Grandma 07",
+      "nameKh": "យាយ ៧",
+      "seconds": 6.3,
+      "sizeBytes": 150336,
+      "sha256": "78ce376d45d9b23b42004ff90d10b7f17027a66886c2cb49d3b86bb5f46af46c",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandma-07.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandma-07.mp3",
+      "tags": [
+        {
+          "en": "Elder",
+          "kh": "មនុស្សចាស់"
+        }
+      ]
+    },
+    {
+      "id": "grandma-08",
+      "fileName": "grandma-08.mp3",
+      "relPath": "voices/elders/grandma-08.mp3",
+      "category": "elders",
+      "categoryLabelEn": "Elders",
+      "categoryLabelKh": "តា & យាយ",
+      "gender": "Female",
+      "nameEn": "Grandma 08",
+      "nameKh": "យាយ ៨",
+      "seconds": 8.7,
+      "sizeBytes": 207936,
+      "sha256": "8de16ac7be060ada9f4cc75f7ede1eb9ad6986d9894a9137f8f17d7560c9d31c",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandma-08.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandma-08.mp3",
+      "tags": [
+        {
+          "en": "Elder",
+          "kh": "មនុស្សចាស់"
+        }
+      ]
+    },
+    {
+      "id": "grandma-09",
+      "fileName": "grandma-09.mp3",
+      "relPath": "voices/elders/grandma-09.mp3",
+      "category": "elders",
+      "categoryLabelEn": "Elders",
+      "categoryLabelKh": "តា & យាយ",
+      "gender": "Female",
+      "nameEn": "Grandma 09",
+      "nameKh": "យាយ ៩",
+      "seconds": 8.8,
+      "sizeBytes": 211968,
+      "sha256": "cf5940f7a2ed782aa3f5a5750ecb3038d619aab81aea7fef8559079ba5940be3",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandma-09.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandma-09.mp3",
+      "tags": [
+        {
+          "en": "Elder",
+          "kh": "មនុស្សចាស់"
+        }
+      ]
+    },
+    {
+      "id": "grandma-10",
+      "fileName": "grandma-10.mp3",
+      "relPath": "voices/elders/grandma-10.mp3",
+      "category": "elders",
+      "categoryLabelEn": "Elders",
+      "categoryLabelKh": "តា & យាយ",
+      "gender": "Female",
+      "nameEn": "Grandma 10",
+      "nameKh": "យាយ ១០",
+      "seconds": 5.6,
+      "sizeBytes": 135360,
+      "sha256": "10377460a78f2bbdeb36967daec4dce976148cf8fc9145438991ac06bf19ba08",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandma-10.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandma-10.mp3",
+      "tags": [
+        {
+          "en": "Elder",
+          "kh": "មនុស្សចាស់"
+        }
+      ]
+    },
+    {
+      "id": "grandma-11",
+      "fileName": "grandma-11.mp3",
+      "relPath": "voices/elders/grandma-11.mp3",
+      "category": "elders",
+      "categoryLabelEn": "Elders",
+      "categoryLabelKh": "តា & យាយ",
+      "gender": "Female",
+      "nameEn": "Grandma 11",
+      "nameKh": "យាយ ១១",
+      "seconds": 9.3,
+      "sizeBytes": 223488,
+      "sha256": "2b378f26314d6a5ecb4364d889d130e9b42576a9e63a7090b61e928d1e23a828",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandma-11.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandma-11.mp3",
+      "tags": [
+        {
+          "en": "Elder",
+          "kh": "មនុស្សចាស់"
+        }
+      ]
+    },
+    {
+      "id": "grandpa-01",
+      "fileName": "grandpa-01.mp3",
+      "relPath": "voices/elders/grandpa-01.mp3",
+      "category": "elders",
+      "categoryLabelEn": "Elders",
+      "categoryLabelKh": "តា & យាយ",
+      "gender": "Male",
+      "nameEn": "Grandpa 01",
+      "nameKh": "តា ១",
+      "seconds": 9,
+      "sizeBytes": 216000,
+      "sha256": "9d3492ed88d876c19d9b9248746d0f3671d9bf88b003c21d45f5e495be450fc9",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandpa-01.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandpa-01.mp3",
+      "tags": [
+        {
+          "en": "Elder",
+          "kh": "មនុស្សចាស់"
+        }
+      ]
+    },
+    {
+      "id": "grandpa-02",
+      "fileName": "grandpa-02.mp3",
+      "relPath": "voices/elders/grandpa-02.mp3",
+      "category": "elders",
+      "categoryLabelEn": "Elders",
+      "categoryLabelKh": "តា & យាយ",
+      "gender": "Male",
+      "nameEn": "Grandpa 02",
+      "nameKh": "តា ២",
+      "seconds": 9.5,
+      "sizeBytes": 227520,
+      "sha256": "89c9ebe1f79ef9351319cd0ac99c793c18a1286f6820b257b1a5e30baaae2165",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandpa-02.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandpa-02.mp3",
+      "tags": [
+        {
+          "en": "Elder",
+          "kh": "មនុស្សចាស់"
+        }
+      ]
+    },
+    {
+      "id": "grandpa-03",
+      "fileName": "grandpa-03.mp3",
+      "relPath": "voices/elders/grandpa-03.mp3",
+      "category": "elders",
+      "categoryLabelEn": "Elders",
+      "categoryLabelKh": "តា & យាយ",
+      "gender": "Male",
+      "nameEn": "Grandpa 03",
+      "nameKh": "តា ៣",
+      "seconds": 8.4,
+      "sizeBytes": 200448,
+      "sha256": "ca310035c7ab4b0c07be37ac95a888004083f033dfd3c85a726e54c0749259e7",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandpa-03.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandpa-03.mp3",
+      "tags": [
+        {
+          "en": "Elder",
+          "kh": "មនុស្សចាស់"
+        }
+      ]
+    },
+    {
+      "id": "grandpa-04",
+      "fileName": "grandpa-04.mp3",
+      "relPath": "voices/elders/grandpa-04.mp3",
+      "category": "elders",
+      "categoryLabelEn": "Elders",
+      "categoryLabelKh": "តា & យាយ",
+      "gender": "Male",
+      "nameEn": "Grandpa 04",
+      "nameKh": "តា ៤",
+      "seconds": 6.9,
+      "sizeBytes": 165888,
+      "sha256": "49406205211fea6818ed6ab8aa9720fed4082cbb368e636bba2edb86803354e0",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandpa-04.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandpa-04.mp3",
+      "tags": [
+        {
+          "en": "Elder",
+          "kh": "មនុស្សចាស់"
+        }
+      ]
+    },
+    {
+      "id": "grandpa-05",
+      "fileName": "grandpa-05.mp3",
+      "relPath": "voices/elders/grandpa-05.mp3",
+      "category": "elders",
+      "categoryLabelEn": "Elders",
+      "categoryLabelKh": "តា & យាយ",
+      "gender": "Male",
+      "nameEn": "Grandpa 05",
+      "nameKh": "តា ៥",
+      "seconds": 7.7,
+      "sizeBytes": 184896,
+      "sha256": "3dc3f90291f3f900b127263298b45b49184d8e4b2f745ff9ce0886b8ea4d7717",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandpa-05.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandpa-05.mp3",
+      "tags": [
+        {
+          "en": "Elder",
+          "kh": "មនុស្សចាស់"
+        }
+      ]
+    },
+    {
+      "id": "grandpa-06",
+      "fileName": "grandpa-06.mp3",
+      "relPath": "voices/elders/grandpa-06.mp3",
+      "category": "elders",
+      "categoryLabelEn": "Elders",
+      "categoryLabelKh": "តា & យាយ",
+      "gender": "Male",
+      "nameEn": "Grandpa 06",
+      "nameKh": "តា ៦",
+      "seconds": 6.7,
+      "sizeBytes": 161856,
+      "sha256": "5c20ba62305bb482216d5810250a651274ae15f542adddcd0a3c9036b5ef0f24",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandpa-06.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandpa-06.mp3",
+      "tags": [
+        {
+          "en": "Elder",
+          "kh": "មនុស្សចាស់"
+        }
+      ]
+    },
+    {
+      "id": "grandpa-07",
+      "fileName": "grandpa-07.mp3",
+      "relPath": "voices/elders/grandpa-07.mp3",
+      "category": "elders",
+      "categoryLabelEn": "Elders",
+      "categoryLabelKh": "តា & យាយ",
+      "gender": "Male",
+      "nameEn": "Grandpa 07",
+      "nameKh": "តា ៧",
+      "seconds": 10.8,
+      "sizeBytes": 258048,
+      "sha256": "cb0f972f45bdc504b36c9db211ee721d0431632f375ebd7f9b7e7821b9373045",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandpa-07.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandpa-07.mp3",
+      "tags": [
+        {
+          "en": "Elder",
+          "kh": "មនុស្សចាស់"
+        }
+      ]
+    },
+    {
+      "id": "grandpa-08",
+      "fileName": "grandpa-08.mp3",
+      "relPath": "voices/elders/grandpa-08.mp3",
+      "category": "elders",
+      "categoryLabelEn": "Elders",
+      "categoryLabelKh": "តា & យាយ",
+      "gender": "Male",
+      "nameEn": "Grandpa 08",
+      "nameKh": "តា ៨",
+      "seconds": 9.6,
+      "sizeBytes": 230976,
+      "sha256": "1c6fbca8c0ece4d0b98852539bc1211aca8f8547310e409b02dfa7f975a268e7",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandpa-08.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandpa-08.mp3",
+      "tags": [
+        {
+          "en": "Elder",
+          "kh": "មនុស្សចាស់"
+        }
+      ]
+    },
+    {
+      "id": "grandpa-09",
+      "fileName": "grandpa-09.mp3",
+      "relPath": "voices/elders/grandpa-09.mp3",
+      "category": "elders",
+      "categoryLabelEn": "Elders",
+      "categoryLabelKh": "តា & យាយ",
+      "gender": "Male",
+      "nameEn": "Grandpa 09",
+      "nameKh": "តា ៩",
+      "seconds": 10.4,
+      "sizeBytes": 250560,
+      "sha256": "00b6c85344492d5d5468d6c8f25dd7381ded46e1aab30d0b5dbd39e4a54bab44",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandpa-09.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandpa-09.mp3",
+      "tags": [
+        {
+          "en": "Elder",
+          "kh": "មនុស្សចាស់"
+        }
+      ]
+    },
+    {
+      "id": "grandpa-10",
+      "fileName": "grandpa-10.mp3",
+      "relPath": "voices/elders/grandpa-10.mp3",
+      "category": "elders",
+      "categoryLabelEn": "Elders",
+      "categoryLabelKh": "តា & យាយ",
+      "gender": "Male",
+      "nameEn": "Grandpa 10",
+      "nameKh": "តា ១០",
+      "seconds": 6.7,
+      "sizeBytes": 161856,
+      "sha256": "c73501cd4a604e6faa98caddd0841a3c6564f95c743f210c50cf858621a2e611",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandpa-10.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandpa-10.mp3",
+      "tags": [
+        {
+          "en": "Elder",
+          "kh": "មនុស្សចាស់"
+        }
+      ]
+    },
+    {
+      "id": "grandpa-11",
+      "fileName": "grandpa-11.mp3",
+      "relPath": "voices/elders/grandpa-11.mp3",
+      "category": "elders",
+      "categoryLabelEn": "Elders",
+      "categoryLabelKh": "តា & យាយ",
+      "gender": "Male",
+      "nameEn": "Grandpa 11",
+      "nameKh": "តា ១១",
+      "seconds": 5,
+      "sizeBytes": 119808,
+      "sha256": "ff3e83112f020f3e24e1723d07d8ed00b197275a48fd73464d17964e0dd9f201",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandpa-11.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandpa-11.mp3",
+      "tags": [
+        {
+          "en": "Elder",
+          "kh": "មនុស្សចាស់"
+        }
+      ]
+    },
+    {
+      "id": "grandpa-12",
+      "fileName": "grandpa-12.mp3",
+      "relPath": "voices/elders/grandpa-12.mp3",
+      "category": "elders",
+      "categoryLabelEn": "Elders",
+      "categoryLabelKh": "តា & យាយ",
+      "gender": "Male",
+      "nameEn": "Grandpa 12",
+      "nameKh": "តា ១២",
+      "seconds": 6.4,
+      "sizeBytes": 154368,
+      "sha256": "eac5685bc9732268fdece0a12b4e4de0e42cb807008b71a6f2661b2f68e2c18c",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandpa-12.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandpa-12.mp3",
+      "tags": [
+        {
+          "en": "Elder",
+          "kh": "មនុស្សចាស់"
+        }
+      ]
+    },
+    {
+      "id": "grandpa-13",
+      "fileName": "grandpa-13.mp3",
+      "relPath": "voices/elders/grandpa-13.mp3",
+      "category": "elders",
+      "categoryLabelEn": "Elders",
+      "categoryLabelKh": "តា & យាយ",
+      "gender": "Male",
+      "nameEn": "Grandpa 13",
+      "nameKh": "តា ១៣",
+      "seconds": 10.1,
+      "sizeBytes": 242496,
+      "sha256": "ba195541705081498be8d6399815961fd6cab1399168fae397db0036986f71c4",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandpa-13.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandpa-13.mp3",
+      "tags": [
+        {
+          "en": "Elder",
+          "kh": "មនុស្សចាស់"
+        }
+      ]
+    },
+    {
+      "id": "grandpa-14",
+      "fileName": "grandpa-14.mp3",
+      "relPath": "voices/elders/grandpa-14.mp3",
+      "category": "elders",
+      "categoryLabelEn": "Elders",
+      "categoryLabelKh": "តា & យាយ",
+      "gender": "Male",
+      "nameEn": "Grandpa 14",
+      "nameKh": "តា ១៤",
+      "seconds": 8.8,
+      "sizeBytes": 211968,
+      "sha256": "5c3f185b512b2afb307abc87e5b66d31636c2de615ade67a1e4efe4e262adcda",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandpa-14.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandpa-14.mp3",
+      "tags": [
+        {
+          "en": "Elder",
+          "kh": "មនុស្សចាស់"
+        }
+      ]
+    },
+    {
+      "id": "grandpa-15",
+      "fileName": "grandpa-15.mp3",
+      "relPath": "voices/elders/grandpa-15.mp3",
+      "category": "elders",
+      "categoryLabelEn": "Elders",
+      "categoryLabelKh": "តា & យាយ",
+      "gender": "Male",
+      "nameEn": "Grandpa 15",
+      "nameKh": "តា ១៥",
+      "seconds": 9.3,
+      "sizeBytes": 223488,
+      "sha256": "1739d6401026185e37c9842662ebf4db8eacaefc8db335f54c40db6a784756b4",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandpa-15.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandpa-15.mp3",
+      "tags": [
+        {
+          "en": "Elder",
+          "kh": "មនុស្សចាស់"
+        }
+      ]
+    },
+    {
+      "id": "grandpa-16",
+      "fileName": "grandpa-16.mp3",
+      "relPath": "voices/elders/grandpa-16.mp3",
+      "category": "elders",
+      "categoryLabelEn": "Elders",
+      "categoryLabelKh": "តា & យាយ",
+      "gender": "Male",
+      "nameEn": "Grandpa 16",
+      "nameKh": "តា ១៦",
+      "seconds": 10.4,
+      "sizeBytes": 250560,
+      "sha256": "362b09db979e586ff56651db3798137ce54fe438bcf96a31ac8ca287c4d23b1d",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandpa-16.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/grandpa-16.mp3",
+      "tags": [
+        {
+          "en": "Elder",
+          "kh": "មនុស្សចាស់"
+        }
+      ]
+    },
+    {
+      "id": "old-man",
+      "fileName": "old-man.wav",
+      "relPath": "voices/elders/old-man.wav",
+      "category": "elders",
+      "categoryLabelEn": "Elders",
+      "categoryLabelKh": "តា & យាយ",
+      "gender": "Male",
+      "nameEn": "Old Man",
+      "nameKh": "លោកតា",
+      "seconds": 6.9,
+      "sizeBytes": 660524,
+      "sha256": "461b17e2589ef14e0a757fada853791e3c455bf410f8a407b0a1085d2649f0e9",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/old-man.wav",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/old-man.wav",
+      "tags": [
+        {
+          "en": "Elder",
+          "kh": "មនុស្សចាស់"
+        }
+      ]
+    },
+    {
+      "id": "old-woman",
+      "fileName": "old-woman.wav",
+      "relPath": "voices/elders/old-woman.wav",
+      "category": "elders",
+      "categoryLabelEn": "Elders",
+      "categoryLabelKh": "តា & យាយ",
+      "gender": "Female",
+      "nameEn": "Old Woman",
+      "nameKh": "លោកយាយ",
+      "seconds": 7.5,
+      "sizeBytes": 721964,
+      "sha256": "fc4cb1461516b41187a34adcca0a0de0cddfef1e148359d1b8d5bf0292c61c74",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/old-woman.wav",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/elders/old-woman.wav",
+      "tags": [
+        {
+          "en": "Elder",
+          "kh": "មនុស្សចាស់"
+        }
+      ]
+    },
+    {
+      "id": "boy-01",
+      "fileName": "boy-01.mp3",
+      "relPath": "voices/youth/boy-01.mp3",
+      "category": "youth",
+      "categoryLabelEn": "Youth & Kids",
+      "categoryLabelKh": "ក្មេង",
+      "gender": "Male",
+      "nameEn": "Boy 01",
+      "nameKh": "ក្មេងប្រុស ១",
+      "seconds": 8.4,
+      "sizeBytes": 200448,
+      "sha256": "501331c15c34e636a61afa385983f4c9137a0b620323f467686533753c533e94",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/boy-01.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/boy-01.mp3",
+      "tags": [
+        {
+          "en": "Youth",
+          "kh": "ក្មេង"
+        }
+      ]
+    },
+    {
+      "id": "boy-02",
+      "fileName": "boy-02.mp3",
+      "relPath": "voices/youth/boy-02.mp3",
+      "category": "youth",
+      "categoryLabelEn": "Youth & Kids",
+      "categoryLabelKh": "ក្មេង",
+      "gender": "Male",
+      "nameEn": "Boy 02",
+      "nameKh": "ក្មេងប្រុស ២",
+      "seconds": 6.1,
+      "sizeBytes": 146880,
+      "sha256": "daad0cd735c9aeb22c04bb854e7c4bd7834f5d2a03dacaffdd01f16800684f17",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/boy-02.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/boy-02.mp3",
+      "tags": [
+        {
+          "en": "Youth",
+          "kh": "ក្មេង"
+        }
+      ]
+    },
+    {
+      "id": "boy-03",
+      "fileName": "boy-03.mp3",
+      "relPath": "voices/youth/boy-03.mp3",
+      "category": "youth",
+      "categoryLabelEn": "Youth & Kids",
+      "categoryLabelKh": "ក្មេង",
+      "gender": "Male",
+      "nameEn": "Boy 03",
+      "nameKh": "ក្មេងប្រុស ៣",
+      "seconds": 6.6,
+      "sizeBytes": 158400,
+      "sha256": "7258b7ef36f3c93c944cd631d35443660aaa34eb51323dcd73689635bcaae0f0",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/boy-03.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/boy-03.mp3",
+      "tags": [
+        {
+          "en": "Youth",
+          "kh": "ក្មេង"
+        }
+      ]
+    },
+    {
+      "id": "boy-04",
+      "fileName": "boy-04.mp3",
+      "relPath": "voices/youth/boy-04.mp3",
+      "category": "youth",
+      "categoryLabelEn": "Youth & Kids",
+      "categoryLabelKh": "ក្មេង",
+      "gender": "Male",
+      "nameEn": "Boy 04",
+      "nameKh": "ក្មេងប្រុស ៤",
+      "seconds": 5,
+      "sizeBytes": 119808,
+      "sha256": "3d109ddfe30c3a86e98c693c566f45bfad052c1b1b0f16fbd13f382947553fea",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/boy-04.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/boy-04.mp3",
+      "tags": [
+        {
+          "en": "Youth",
+          "kh": "ក្មេង"
+        }
+      ]
+    },
+    {
+      "id": "boy-05",
+      "fileName": "boy-05.mp3",
+      "relPath": "voices/youth/boy-05.mp3",
+      "category": "youth",
+      "categoryLabelEn": "Youth & Kids",
+      "categoryLabelKh": "ក្មេង",
+      "gender": "Male",
+      "nameEn": "Boy 05",
+      "nameKh": "ក្មេងប្រុស ៥",
+      "seconds": 6.4,
+      "sizeBytes": 154368,
+      "sha256": "3cfe433e6252d569041b106bdeb808f4efe041f6231d154fa192c1a5ccf8dcdf",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/boy-05.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/boy-05.mp3",
+      "tags": [
+        {
+          "en": "Youth",
+          "kh": "ក្មេង"
+        }
+      ]
+    },
+    {
+      "id": "child-04",
+      "fileName": "child-04.wav",
+      "relPath": "voices/youth/child-04.wav",
+      "category": "youth",
+      "categoryLabelEn": "Youth & Kids",
+      "categoryLabelKh": "ក្មេង",
+      "gender": "Female",
+      "nameEn": "Child 04",
+      "nameKh": "ក្មេង ៤",
+      "seconds": 5.6,
+      "sizeBytes": 537644,
+      "sha256": "c6027b6f7a689e7b455a852285ae94e057017efdf30d5ff366d7cbb5030f2a18",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/child-04.wav",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/child-04.wav",
+      "tags": [
+        {
+          "en": "Youth",
+          "kh": "ក្មេង"
+        }
+      ]
+    },
+    {
+      "id": "daughter-teen",
+      "fileName": "daughter-teen.mp3",
+      "relPath": "voices/youth/daughter-teen.mp3",
+      "category": "youth",
+      "categoryLabelEn": "Youth & Kids",
+      "categoryLabelKh": "ក្មេង",
+      "gender": "Female",
+      "nameEn": "Daughter (Teen)",
+      "nameKh": "កូនស្រីវ័យជំទង់",
+      "seconds": 3.1,
+      "sizeBytes": 73728,
+      "sha256": "15c0335fa932ef25de5dced00e13684f2a246afb3496ca74e4be3902817c163b",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/daughter-teen.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/daughter-teen.mp3",
+      "tags": [
+        {
+          "en": "Youth",
+          "kh": "ក្មេង"
+        }
+      ]
+    },
+    {
+      "id": "girl-01",
+      "fileName": "girl-01.mp3",
+      "relPath": "voices/youth/girl-01.mp3",
+      "category": "youth",
+      "categoryLabelEn": "Youth & Kids",
+      "categoryLabelKh": "ក្មេង",
+      "gender": "Female",
+      "nameEn": "Girl 01",
+      "nameKh": "ក្មេងស្រី ១",
+      "seconds": 7.4,
+      "sizeBytes": 177408,
+      "sha256": "9a41a5de6cdcfd7b1b12ab9cc4af086714ba5126c70c5efff345aee4446877ae",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/girl-01.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/girl-01.mp3",
+      "tags": [
+        {
+          "en": "Youth",
+          "kh": "ក្មេង"
+        }
+      ]
+    },
+    {
+      "id": "girl-02",
+      "fileName": "girl-02.mp3",
+      "relPath": "voices/youth/girl-02.mp3",
+      "category": "youth",
+      "categoryLabelEn": "Youth & Kids",
+      "categoryLabelKh": "ក្មេង",
+      "gender": "Female",
+      "nameEn": "Girl 02",
+      "nameKh": "ក្មេងស្រី ២",
+      "seconds": 6,
+      "sizeBytes": 142848,
+      "sha256": "8431f5eeebe9619f12b9f62be7ab0979f1e6e167409f1d6acde1205962a1fa16",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/girl-02.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/girl-02.mp3",
+      "tags": [
+        {
+          "en": "Youth",
+          "kh": "ក្មេង"
+        }
+      ]
+    },
+    {
+      "id": "girl-03",
+      "fileName": "girl-03.mp3",
+      "relPath": "voices/youth/girl-03.mp3",
+      "category": "youth",
+      "categoryLabelEn": "Youth & Kids",
+      "categoryLabelKh": "ក្មេង",
+      "gender": "Female",
+      "nameEn": "Girl 03",
+      "nameKh": "ក្មេងស្រី ៣",
+      "seconds": 7.1,
+      "sizeBytes": 169920,
+      "sha256": "794de0fdde96ddd3924ce67cc739bc0a094b216d599a51af448ef4f436a5d947",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/girl-03.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/girl-03.mp3",
+      "tags": [
+        {
+          "en": "Youth",
+          "kh": "ក្មេង"
+        }
+      ]
+    },
+    {
+      "id": "girl-04",
+      "fileName": "girl-04.mp3",
+      "relPath": "voices/youth/girl-04.mp3",
+      "category": "youth",
+      "categoryLabelEn": "Youth & Kids",
+      "categoryLabelKh": "ក្មេង",
+      "gender": "Female",
+      "nameEn": "Girl 04",
+      "nameKh": "ក្មេងស្រី ៤",
+      "seconds": 7.2,
+      "sizeBytes": 173376,
+      "sha256": "0ce5993ae499d06836df389f6a64ea6af1ddd35444cd3ae191a3ea77dd811a8b",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/girl-04.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/girl-04.mp3",
+      "tags": [
+        {
+          "en": "Youth",
+          "kh": "ក្មេង"
+        }
+      ]
+    },
+    {
+      "id": "girl-05",
+      "fileName": "girl-05.mp3",
+      "relPath": "voices/youth/girl-05.mp3",
+      "category": "youth",
+      "categoryLabelEn": "Youth & Kids",
+      "categoryLabelKh": "ក្មេង",
+      "gender": "Female",
+      "nameEn": "Girl 05",
+      "nameKh": "ក្មេងស្រី ៥",
+      "seconds": 7.6,
+      "sizeBytes": 181440,
+      "sha256": "b9a81dca2d9fdc97546949fcd1926a580957062e5137ed13009de9faaf7dd002",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/girl-05.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/girl-05.mp3",
+      "tags": [
+        {
+          "en": "Youth",
+          "kh": "ក្មេង"
+        }
+      ]
+    },
+    {
+      "id": "girl-06",
+      "fileName": "girl-06.mp3",
+      "relPath": "voices/youth/girl-06.mp3",
+      "category": "youth",
+      "categoryLabelEn": "Youth & Kids",
+      "categoryLabelKh": "ក្មេង",
+      "gender": "Female",
+      "nameEn": "Girl 06",
+      "nameKh": "ក្មេងស្រី ៦",
+      "seconds": 6.3,
+      "sizeBytes": 150336,
+      "sha256": "296634b43f5570cbcaca87767a1cf799f471f4197e6d32ef60947926e682cbf2",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/girl-06.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/girl-06.mp3",
+      "tags": [
+        {
+          "en": "Youth",
+          "kh": "ក្មេង"
+        }
+      ]
+    },
+    {
+      "id": "girl-07",
+      "fileName": "girl-07.mp3",
+      "relPath": "voices/youth/girl-07.mp3",
+      "category": "youth",
+      "categoryLabelEn": "Youth & Kids",
+      "categoryLabelKh": "ក្មេង",
+      "gender": "Female",
+      "nameEn": "Girl 07",
+      "nameKh": "ក្មេងស្រី ៧",
+      "seconds": 6.4,
+      "sizeBytes": 154368,
+      "sha256": "13ccda161d14ae5f0a0bb69451d260b55e13cd553b5dd740a7eb4e57605ccb2f",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/girl-07.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/girl-07.mp3",
+      "tags": [
+        {
+          "en": "Youth",
+          "kh": "ក្មេង"
+        }
+      ]
+    },
+    {
+      "id": "girl-08",
+      "fileName": "girl-08.mp3",
+      "relPath": "voices/youth/girl-08.mp3",
+      "category": "youth",
+      "categoryLabelEn": "Youth & Kids",
+      "categoryLabelKh": "ក្មេង",
+      "gender": "Female",
+      "nameEn": "Girl 08",
+      "nameKh": "ក្មេងស្រី ៨",
+      "seconds": 5.3,
+      "sizeBytes": 127296,
+      "sha256": "807b17dd9a6f0fa8520e00f6b6268b03ea7cf952d1305f80204c8e4e4fafa679",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/girl-08.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/girl-08.mp3",
+      "tags": [
+        {
+          "en": "Youth",
+          "kh": "ក្មេង"
+        }
+      ]
+    },
+    {
+      "id": "girl-09",
+      "fileName": "girl-09.mp3",
+      "relPath": "voices/youth/girl-09.mp3",
+      "category": "youth",
+      "categoryLabelEn": "Youth & Kids",
+      "categoryLabelKh": "ក្មេង",
+      "gender": "Female",
+      "nameEn": "Girl 09",
+      "nameKh": "ក្មេងស្រី ៩",
+      "seconds": 8.2,
+      "sizeBytes": 196416,
+      "sha256": "9ecffabb5b3ec6f82f9385c4664396c9b5ac173425f07d16704c83f9e5caa37b",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/girl-09.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/girl-09.mp3",
+      "tags": [
+        {
+          "en": "Youth",
+          "kh": "ក្មេង"
+        }
+      ]
+    },
+    {
+      "id": "girl-10",
+      "fileName": "girl-10.mp3",
+      "relPath": "voices/youth/girl-10.mp3",
+      "category": "youth",
+      "categoryLabelEn": "Youth & Kids",
+      "categoryLabelKh": "ក្មេង",
+      "gender": "Female",
+      "nameEn": "Girl 10",
+      "nameKh": "ក្មេងស្រី ១០",
+      "seconds": 6.7,
+      "sizeBytes": 161856,
+      "sha256": "3f6135986360eba518bd214f3f75bc990c3a6a892fc885c7d0b9789589f35905",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/girl-10.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/girl-10.mp3",
+      "tags": [
+        {
+          "en": "Youth",
+          "kh": "ក្មេង"
+        }
+      ]
+    },
+    {
+      "id": "girl-11",
+      "fileName": "girl-11.mp3",
+      "relPath": "voices/youth/girl-11.mp3",
+      "category": "youth",
+      "categoryLabelEn": "Youth & Kids",
+      "categoryLabelKh": "ក្មេង",
+      "gender": "Female",
+      "nameEn": "Girl 11",
+      "nameKh": "ក្មេងស្រី ១១",
+      "seconds": 6,
+      "sizeBytes": 142848,
+      "sha256": "390785bfcd12391234c658f29cf37453e58a66d856f57588a867b3348ad1e76c",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/girl-11.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/girl-11.mp3",
+      "tags": [
+        {
+          "en": "Youth",
+          "kh": "ក្មេង"
+        }
+      ]
+    },
+    {
+      "id": "son-02",
+      "fileName": "son-02.mp3",
+      "relPath": "voices/youth/son-02.mp3",
+      "category": "youth",
+      "categoryLabelEn": "Youth & Kids",
+      "categoryLabelKh": "ក្មេង",
+      "gender": "Male",
+      "nameEn": "Son",
+      "nameKh": "កូនប្រុស",
+      "seconds": 2.6,
+      "sizeBytes": 62208,
+      "sha256": "813236725ea7c41ab6f374b0411881e84768acad88eaf5d465aef77d96033347",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/son-02.mp3",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/son-02.mp3",
+      "tags": [
+        {
+          "en": "Youth",
+          "kh": "ក្មេង"
+        }
+      ]
+    },
+    {
+      "id": "toddler-3-yrs",
+      "fileName": "toddler-3-yrs.wav",
+      "relPath": "voices/youth/toddler-3-yrs.wav",
+      "category": "youth",
+      "categoryLabelEn": "Youth & Kids",
+      "categoryLabelKh": "ក្មេង",
+      "gender": "Female",
+      "nameEn": "Toddler (3 yrs)",
+      "nameKh": "ក្មេងតូច (៣ ឆ្នាំ)",
+      "seconds": 7.7,
+      "sizeBytes": 737324,
+      "sha256": "ea914790e3eba0ed3ccd927aabf268696d44621f81dc34f4fb7931488af34ef2",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/toddler-3-yrs.wav",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/toddler-3-yrs.wav",
+      "tags": [
+        {
+          "en": "Kids",
+          "kh": "ក្មេងតូច"
+        }
+      ]
+    },
+    {
+      "id": "young-brother",
+      "fileName": "young-brother.wav",
+      "relPath": "voices/youth/young-brother.wav",
+      "category": "youth",
+      "categoryLabelEn": "Youth & Kids",
+      "categoryLabelKh": "ក្មេង",
+      "gender": "Male",
+      "nameEn": "Younger Brother",
+      "nameKh": "ប្អូនប្រុស",
+      "seconds": 3.4,
+      "sizeBytes": 322604,
+      "sha256": "f89b3e1acb36d5f8836dcc67cfc0877d5b25c67d594e0e73cc8aaa8240e7f704",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/young-brother.wav",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/young-brother.wav",
+      "tags": [
+        {
+          "en": "Family",
+          "kh": "គ្រួសារ"
+        }
+      ]
+    },
+    {
+      "id": "younger-sister",
+      "fileName": "younger-sister.wav",
+      "relPath": "voices/youth/younger-sister.wav",
+      "category": "youth",
+      "categoryLabelEn": "Youth & Kids",
+      "categoryLabelKh": "ក្មេង",
+      "gender": "Female",
+      "nameEn": "Younger Sister",
+      "nameKh": "ប្អូនស្រី",
+      "seconds": 5.3,
+      "sizeBytes": 506924,
+      "sha256": "6439b1a773e8d618522ba1409d2718df9ca3a077d3b4fb5bd485ef165771362c",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/younger-sister.wav",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/youth/younger-sister.wav",
+      "tags": [
+        {
+          "en": "Family",
+          "kh": "គ្រួសារ"
+        }
+      ]
+    },
+    {
+      "id": "story-teller-man2",
+      "fileName": "story-teller-man2.wav",
+      "relPath": "voices/narrators/story-teller-man2.wav",
+      "category": "narrators",
+      "categoryLabelEn": "Narrators",
+      "categoryLabelKh": "អ្នកអត្ថាធិប្បាយ",
+      "gender": "Male",
+      "nameEn": "Storyteller Man",
+      "nameKh": "អ្នកនិទានរឿងប្រុស",
+      "seconds": 4.3,
+      "sizeBytes": 414764,
+      "sha256": "b08dfd07da9dfa61d70395eaea59adda18a7c5de5b764c383712d817c4cc0432",
+      "downloadUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/narrators/story-teller-man2.wav",
+      "streamUrl": "https://raw.githubusercontent.com/sorithya/professor-ai-voice-vault/main/voices/narrators/story-teller-man2.wav",
+      "tags": [
+        {
+          "en": "Narrator",
+          "kh": "អ្នកនិទាន"
+        }
+      ]
+    }
+  ]
+}
